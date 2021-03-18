@@ -1,0 +1,146 @@
+{
+    "Name": "droppackage",
+    "Crc32": "2674741825",
+    "_Datas": {
+        "1": {
+            "RewardId": 1,
+            "Order": 503000,
+            "RewardCondition": 0,
+            "ItemId": 702001,
+            "ItemNumMin": 50,
+            "ItemNumMax": 50,
+            "Probability": 1000000
+        },
+        "2": {
+            "RewardId": 2,
+            "Order": 503000,
+            "RewardCondition": 0,
+            "ItemId": 1,
+            "ItemNumMin": 10000,
+            "ItemNumMax": 10000,
+            "Probability": 1000000
+        },
+        "3": {
+            "RewardId": 3,
+            "Order": 503000,
+            "RewardCondition": 0,
+            "ItemId": 2,
+            "ItemNumMin": 1,
+            "ItemNumMax": 1,
+            "Probability": 1000000
+        },
+        "4": {
+            "RewardId": 4,
+            "Order": 503000,
+            "RewardCondition": 0,
+            "ItemId": 3,
+            "ItemNumMin": 1,
+            "ItemNumMax": 1,
+            "Probability": 1000000
+        },
+        "5": {
+            "RewardId": 5,
+            "Order": 10012,
+            "RewardCondition": 0,
+            "ItemId": 2,
+            "ItemNumMin": 50,
+            "ItemNumMax": 50,
+            "Probability": 1000000
+        },
+        "6": {
+            "RewardId": 6,
+            "Order": 10012,
+            "RewardCondition": 0,
+            "ItemId": 1,
+            "ItemNumMin": 10000,
+            "ItemNumMax": 10000,
+            "Probability": 1000000
+        },
+        "7": {
+            "RewardId": 7,
+            "Order": 10012,
+            "RewardCondition": 0,
+            "ItemId": 2050001,
+            "ItemNumMin": 5,
+            "ItemNumMax": 5,
+            "Probability": 1000000
+        },
+        "8": {
+            "RewardId": 8,
+            "Order": 10012,
+            "RewardCondition": 0,
+            "ItemId": 2030076,
+            "ItemNumMin": 5,
+            "ItemNumMax": 5,
+            "Probability": 1000000
+        },
+        "9": {
+            "RewardId": 9,
+            "Order": 10012,
+            "RewardCondition": 0,
+            "ItemId": 10013,
+            "ItemNumMin": 1,
+            "ItemNumMax": 1,
+            "Probability": 1000000
+        },
+        "10": {
+            "RewardId": 10,
+            "Order": 10013,
+            "RewardCondition": 0,
+            "ItemId": 2,
+            "ItemNumMin": 50,
+            "ItemNumMax": 50,
+            "Probability": 1000000
+        },
+        "11": {
+            "RewardId": 11,
+            "Order": 10013,
+            "RewardCondition": 0,
+            "ItemId": 1,
+            "ItemNumMin": 20000,
+            "ItemNumMax": 20000,
+            "Probability": 1000000
+        },
+        "12": {
+            "RewardId": 12,
+            "Order": 10013,
+            "RewardCondition": 0,
+            "ItemId": 10083,
+            "ItemNumMin": 3,
+            "ItemNumMax": 3,
+            "Probability": 1000000
+        },
+        "13": {
+            "RewardId": 13,
+            "Order": 10013,
+            "RewardCondition": 0,
+            "ItemId": 10014,
+            "ItemNumMin": 1,
+            "ItemNumMax": 1,
+            "Probability": 1000000
+        }
+    },
+    "_Group": {
+        "Order": {
+            "503000": [
+                1,
+                2,
+                3,
+                4
+            ],
+            "10012": [
+                5,
+                6,
+                7,
+                8,
+                9
+            ],
+            "10013": [
+                10,
+                11,
+                12,
+                13
+            ]
+        }
+    }
+}

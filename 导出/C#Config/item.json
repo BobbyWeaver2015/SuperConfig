@@ -1,0 +1,6966 @@
+{
+    "Name": "item",
+    "Crc32": "2904523791",
+    "_Datas": {
+        "1": {
+            "Id": 1,
+            "Name": "金币",
+            "Type": 1,
+            "SubType": 1,
+            "Icon": "petskill1020",
+            "Quality": 1,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": -1,
+            "Obtain": "",
+            "Desc": "金币",
+            "Param1": 0,
+            "Param2": 0,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "2": {
+            "Id": 2,
+            "Name": "钻石",
+            "Type": 1,
+            "SubType": 2,
+            "Icon": "petskill1020",
+            "Quality": 2,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": -1,
+            "Obtain": "",
+            "Desc": "钻石",
+            "Param1": 0,
+            "Param2": 0,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "3": {
+            "Id": 3,
+            "Name": "绑钻",
+            "Type": 1,
+            "SubType": 3,
+            "Icon": "petskill1020",
+            "Quality": 3,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": -1,
+            "Obtain": "",
+            "Desc": "绑钻",
+            "Param1": 0,
+            "Param2": 0,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "4": {
+            "Id": 4,
+            "Name": "个人竞技币",
+            "Type": 1,
+            "SubType": 4,
+            "Icon": "petskill1020",
+            "Quality": 3,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": -1,
+            "Obtain": "",
+            "Desc": "个人竞技币",
+            "Param1": 0,
+            "Param2": 0,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "5": {
+            "Id": 5,
+            "Name": "公会币",
+            "Type": 1,
+            "SubType": 5,
+            "Icon": "petskill1020",
+            "Quality": 3,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": -1,
+            "Obtain": "",
+            "Desc": "公会币",
+            "Param1": 0,
+            "Param2": 0,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "6": {
+            "Id": 6,
+            "Name": "联赛积分币",
+            "Type": 1,
+            "SubType": 6,
+            "Icon": "petskill1020",
+            "Quality": 3,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": -1,
+            "Obtain": "",
+            "Desc": "联赛积分币",
+            "Param1": 0,
+            "Param2": 0,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "7": {
+            "Id": 7,
+            "Name": "单宠挑战币",
+            "Type": 1,
+            "SubType": 7,
+            "Icon": "petskill1020",
+            "Quality": 3,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": -1,
+            "Obtain": "",
+            "Desc": "单宠挑战币",
+            "Param1": 0,
+            "Param2": 0,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "8": {
+            "Id": 8,
+            "Name": "巅峰竞技币",
+            "Type": 1,
+            "SubType": 8,
+            "Icon": "petskill1020",
+            "Quality": 3,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": -1,
+            "Obtain": "",
+            "Desc": "巅峰竞技币",
+            "Param1": 0,
+            "Param2": 0,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "9": {
+            "Id": 9,
+            "Name": "天赋点",
+            "Type": 1,
+            "SubType": 9,
+            "Icon": "petskill1020",
+            "Quality": 3,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": -1,
+            "Obtain": "",
+            "Desc": "天赋点",
+            "Param1": 0,
+            "Param2": 0,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "10": {
+            "Id": 10,
+            "Name": "技能点",
+            "Type": 1,
+            "SubType": 10,
+            "Icon": "petskill1020",
+            "Quality": 3,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": -1,
+            "Obtain": "",
+            "Desc": "技能点",
+            "Param1": 0,
+            "Param2": 0,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "11": {
+            "Id": 11,
+            "Name": "人物经验",
+            "Type": 1,
+            "SubType": 11,
+            "Icon": "petskill1020",
+            "Quality": 3,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": -1,
+            "Obtain": "",
+            "Desc": "人物经验",
+            "Param1": 0,
+            "Param2": 0,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "12": {
+            "Id": 12,
+            "Name": "VIP经验",
+            "Type": 1,
+            "SubType": 12,
+            "Icon": "petskill1020",
+            "Quality": 3,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": -1,
+            "Obtain": "",
+            "Desc": "VIP经验",
+            "Param1": 0,
+            "Param2": 0,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "13": {
+            "Id": 13,
+            "Name": "宠物融合经验",
+            "Type": 1,
+            "SubType": 13,
+            "Icon": "petskill1020",
+            "Quality": 3,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": -1,
+            "Obtain": "",
+            "Desc": "",
+            "Param1": 0,
+            "Param2": 0,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "31": {
+            "Id": 31,
+            "Name": "宠物经验",
+            "Type": 1,
+            "SubType": 31,
+            "Icon": "petskill1020",
+            "Quality": 3,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": -1,
+            "Obtain": "",
+            "Desc": "宠物经验",
+            "Param1": 0,
+            "Param2": 0,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "32": {
+            "Id": 32,
+            "Name": "宠物技能点数",
+            "Type": 1,
+            "SubType": 32,
+            "Icon": "petskill1020",
+            "Quality": 3,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": -1,
+            "Obtain": "",
+            "Desc": "宠物技能点数",
+            "Param1": 0,
+            "Param2": 0,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "201000": {
+            "Id": 201000,
+            "Name": "测试碎片A",
+            "Type": 2,
+            "SubType": 1,
+            "Icon": "petskill1020",
+            "Quality": 4,
+            "UseLevel": 1,
+            "Price": 1000,
+            "MaxCount": 999,
+            "Obtain": "",
+            "Desc": "10个测试碎片A合成1个测试装备A",
+            "Param1": 0,
+            "Param2": 0,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "205000": {
+            "Id": 205000,
+            "Name": "徽章1碎片",
+            "Type": 2,
+            "SubType": 5,
+            "Icon": "petskill1020",
+            "Quality": 3,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 999,
+            "Obtain": "",
+            "Desc": "徽章1碎片",
+            "Param1": 0,
+            "Param2": 0,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "205001": {
+            "Id": 205001,
+            "Name": "徽章2碎片",
+            "Type": 2,
+            "SubType": 5,
+            "Icon": "petskill1020",
+            "Quality": 3,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 999,
+            "Obtain": "",
+            "Desc": "徽章2碎片",
+            "Param1": 0,
+            "Param2": 0,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "205002": {
+            "Id": 205002,
+            "Name": "徽章3碎片",
+            "Type": 2,
+            "SubType": 5,
+            "Icon": "petskill1020",
+            "Quality": 3,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 999,
+            "Obtain": "",
+            "Desc": "徽章3碎片",
+            "Param1": 0,
+            "Param2": 0,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "205003": {
+            "Id": 205003,
+            "Name": "徽章4碎片",
+            "Type": 2,
+            "SubType": 5,
+            "Icon": "petskill1020",
+            "Quality": 3,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 999,
+            "Obtain": "",
+            "Desc": "徽章4碎片",
+            "Param1": 0,
+            "Param2": 0,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "301000": {
+            "Id": 301000,
+            "Name": "测试装备A",
+            "Type": 3,
+            "SubType": 1,
+            "Icon": "petskill1020",
+            "Quality": 5,
+            "UseLevel": 1,
+            "Price": 1000,
+            "MaxCount": 999,
+            "Obtain": "",
+            "Desc": "测试装备A，属性未知",
+            "Param1": 0,
+            "Param2": 0,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "401000": {
+            "Id": 401000,
+            "Name": "初级进阶丹",
+            "Type": 4,
+            "SubType": 1,
+            "Icon": "petskill1020",
+            "Quality": 2,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 999,
+            "Obtain": "",
+            "Desc": "装备进阶材料1",
+            "Param1": 100,
+            "Param2": 0,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "401001": {
+            "Id": 401001,
+            "Name": "中级进阶丹",
+            "Type": 4,
+            "SubType": 1,
+            "Icon": "petskill1020",
+            "Quality": 3,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 999,
+            "Obtain": "",
+            "Desc": "装备进阶材料2",
+            "Param1": 200,
+            "Param2": 0,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "401002": {
+            "Id": 401002,
+            "Name": "高级进阶丹",
+            "Type": 4,
+            "SubType": 1,
+            "Icon": "petskill1020",
+            "Quality": 4,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 999,
+            "Obtain": "",
+            "Desc": "装备进阶材料3",
+            "Param1": 300,
+            "Param2": 0,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "401003": {
+            "Id": 401003,
+            "Name": "顶级进阶丹",
+            "Type": 4,
+            "SubType": 1,
+            "Icon": "petskill1020",
+            "Quality": 5,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 999,
+            "Obtain": "",
+            "Desc": "装备进阶材料4",
+            "Param1": 400,
+            "Param2": 0,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "402000": {
+            "Id": 402000,
+            "Name": "饰品进阶材料1",
+            "Type": 4,
+            "SubType": 2,
+            "Icon": "petskill1020",
+            "Quality": 2,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 999,
+            "Obtain": "",
+            "Desc": "饰品进阶材料1",
+            "Param1": 100,
+            "Param2": 0,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "402001": {
+            "Id": 402001,
+            "Name": "饰品进阶材料2",
+            "Type": 4,
+            "SubType": 2,
+            "Icon": "petskill1020",
+            "Quality": 2,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 999,
+            "Obtain": "",
+            "Desc": "饰品进阶材料2",
+            "Param1": 200,
+            "Param2": 0,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "402002": {
+            "Id": 402002,
+            "Name": "饰品进阶材料3",
+            "Type": 4,
+            "SubType": 2,
+            "Icon": "petskill1020",
+            "Quality": 3,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 999,
+            "Obtain": "",
+            "Desc": "饰品进阶材料3",
+            "Param1": 300,
+            "Param2": 0,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "402003": {
+            "Id": 402003,
+            "Name": "饰品进阶材料4",
+            "Type": 4,
+            "SubType": 2,
+            "Icon": "petskill1020",
+            "Quality": 3,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 999,
+            "Obtain": "",
+            "Desc": "饰品进阶材料4",
+            "Param1": 400,
+            "Param2": 0,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "403000": {
+            "Id": 403000,
+            "Name": "宝物进阶材料1",
+            "Type": 4,
+            "SubType": 3,
+            "Icon": "petskill1020",
+            "Quality": 2,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 999,
+            "Obtain": "",
+            "Desc": "宝物进阶材料1",
+            "Param1": 0,
+            "Param2": 0,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "403001": {
+            "Id": 403001,
+            "Name": "宝物进阶材料2",
+            "Type": 4,
+            "SubType": 3,
+            "Icon": "petskill1020",
+            "Quality": 2,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 999,
+            "Obtain": "",
+            "Desc": "宝物进阶材料2",
+            "Param1": 0,
+            "Param2": 0,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "403002": {
+            "Id": 403002,
+            "Name": "宝物进阶材料3",
+            "Type": 4,
+            "SubType": 3,
+            "Icon": "petskill1020",
+            "Quality": 3,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 999,
+            "Obtain": "",
+            "Desc": "宝物进阶材料3",
+            "Param1": 0,
+            "Param2": 0,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "403003": {
+            "Id": 403003,
+            "Name": "宝物进阶材料4",
+            "Type": 4,
+            "SubType": 3,
+            "Icon": "petskill1020",
+            "Quality": 3,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 999,
+            "Obtain": "",
+            "Desc": "宝物进阶材料4",
+            "Param1": 0,
+            "Param2": 0,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "403004": {
+            "Id": 403004,
+            "Name": "宝物进阶材料5",
+            "Type": 4,
+            "SubType": 3,
+            "Icon": "petskill1020",
+            "Quality": 4,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 999,
+            "Obtain": "",
+            "Desc": "宝物进阶材料5",
+            "Param1": 0,
+            "Param2": 0,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "403005": {
+            "Id": 403005,
+            "Name": "宝物进阶材料6",
+            "Type": 4,
+            "SubType": 3,
+            "Icon": "petskill1020",
+            "Quality": 5,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 999,
+            "Obtain": "",
+            "Desc": "宝物进阶材料6",
+            "Param1": 0,
+            "Param2": 0,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "404000": {
+            "Id": 404000,
+            "Name": "灵翼之魂1",
+            "Type": 4,
+            "SubType": 4,
+            "Icon": "petskill1020",
+            "Quality": 3,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 999,
+            "Obtain": "",
+            "Desc": "翅膀进阶道具1",
+            "Param1": 0,
+            "Param2": 0,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "405000": {
+            "Id": 405000,
+            "Name": "翅膀升星材料1",
+            "Type": 4,
+            "SubType": 5,
+            "Icon": "petskill1020",
+            "Quality": 4,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 999,
+            "Obtain": "",
+            "Desc": "翅膀升星材料1",
+            "Param1": 0,
+            "Param2": 0,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "406000": {
+            "Id": 406000,
+            "Name": "精灵果",
+            "Type": 4,
+            "SubType": 6,
+            "Icon": "petskill1020",
+            "Quality": 3,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 999,
+            "Obtain": "",
+            "Desc": "坐骑升级材料",
+            "Param1": 0,
+            "Param2": 0,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "407000": {
+            "Id": 407000,
+            "Name": "能量结晶",
+            "Type": 4,
+            "SubType": 7,
+            "Icon": "petskill1020",
+            "Quality": 3,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 999,
+            "Obtain": "",
+            "Desc": "徽章升级道具",
+            "Param1": 0,
+            "Param2": 0,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "408000": {
+            "Id": 408000,
+            "Name": "初级特性卡",
+            "Type": 4,
+            "SubType": 8,
+            "Icon": "petskill1020",
+            "Quality": 2,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 999,
+            "Obtain": "",
+            "Desc": "特性重置道具1",
+            "Param1": 1,
+            "Param2": 2,
+            "Param3": 3,
+            "Param4": ""
+        },
+        "408001": {
+            "Id": 408001,
+            "Name": "高级特性卡",
+            "Type": 4,
+            "SubType": 8,
+            "Icon": "petskill1020",
+            "Quality": 3,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 999,
+            "Obtain": "",
+            "Desc": "特性重置道具2",
+            "Param1": 2,
+            "Param2": 3,
+            "Param3": 4,
+            "Param4": ""
+        },
+        "408002": {
+            "Id": 408002,
+            "Name": "顶级特性卡",
+            "Type": 4,
+            "SubType": 8,
+            "Icon": "petskill1020",
+            "Quality": 4,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 999,
+            "Obtain": "",
+            "Desc": "特性重置道具3",
+            "Param1": 3,
+            "Param2": 4,
+            "Param3": 5,
+            "Param4": ""
+        },
+        "409000": {
+            "Id": 409000,
+            "Name": "宠物进化卡1",
+            "Type": 4,
+            "SubType": 9,
+            "Icon": "petskill1020",
+            "Quality": 1,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 999,
+            "Obtain": "",
+            "Desc": "宠物进化卡1",
+            "Param1": 0,
+            "Param2": 0,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "409001": {
+            "Id": 409001,
+            "Name": "宠物进化卡2",
+            "Type": 4,
+            "SubType": 9,
+            "Icon": "petskill1020",
+            "Quality": 1,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 999,
+            "Obtain": "",
+            "Desc": "宠物进化卡2",
+            "Param1": 0,
+            "Param2": 0,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "409002": {
+            "Id": 409002,
+            "Name": "宠物进化卡3",
+            "Type": 4,
+            "SubType": 9,
+            "Icon": "petskill1020",
+            "Quality": 2,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 999,
+            "Obtain": "",
+            "Desc": "宠物进化卡3",
+            "Param1": 0,
+            "Param2": 0,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "409003": {
+            "Id": 409003,
+            "Name": "宠物进化卡4",
+            "Type": 4,
+            "SubType": 9,
+            "Icon": "petskill1020",
+            "Quality": 2,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 999,
+            "Obtain": "",
+            "Desc": "宠物进化卡4",
+            "Param1": 0,
+            "Param2": 0,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "409004": {
+            "Id": 409004,
+            "Name": "宠物进化卡5",
+            "Type": 4,
+            "SubType": 9,
+            "Icon": "petskill1020",
+            "Quality": 3,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 999,
+            "Obtain": "",
+            "Desc": "宠物进化卡5",
+            "Param1": 0,
+            "Param2": 0,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "409005": {
+            "Id": 409005,
+            "Name": "宠物进化卡6",
+            "Type": 4,
+            "SubType": 9,
+            "Icon": "petskill1020",
+            "Quality": 3,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 999,
+            "Obtain": "",
+            "Desc": "宠物进化卡6",
+            "Param1": 0,
+            "Param2": 0,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "409006": {
+            "Id": 409006,
+            "Name": "宠物进化卡7",
+            "Type": 4,
+            "SubType": 9,
+            "Icon": "petskill1020",
+            "Quality": 4,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 999,
+            "Obtain": "",
+            "Desc": "宠物进化卡7",
+            "Param1": 0,
+            "Param2": 0,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "409007": {
+            "Id": 409007,
+            "Name": "宠物进化卡8",
+            "Type": 4,
+            "SubType": 9,
+            "Icon": "petskill1020",
+            "Quality": 4,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 999,
+            "Obtain": "",
+            "Desc": "宠物进化卡8",
+            "Param1": 0,
+            "Param2": 0,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "410000": {
+            "Id": 410000,
+            "Name": "突破材料1",
+            "Type": 4,
+            "SubType": 10,
+            "Icon": "petskill1020",
+            "Quality": 3,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 999,
+            "Obtain": "",
+            "Desc": "突破材料1",
+            "Param1": 0,
+            "Param2": 0,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "410001": {
+            "Id": 410001,
+            "Name": "突破材料2",
+            "Type": 4,
+            "SubType": 10,
+            "Icon": "petskill1020",
+            "Quality": 3,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 999,
+            "Obtain": "",
+            "Desc": "突破材料2",
+            "Param1": 0,
+            "Param2": 0,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "410002": {
+            "Id": 410002,
+            "Name": "突破材料2",
+            "Type": 4,
+            "SubType": 10,
+            "Icon": "petskill1020",
+            "Quality": 3,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 999,
+            "Obtain": "",
+            "Desc": "突破材料3",
+            "Param1": 0,
+            "Param2": 0,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "411000": {
+            "Id": 411000,
+            "Name": "个体值洗练卡",
+            "Type": 4,
+            "SubType": 11,
+            "Icon": "petskill1020",
+            "Quality": 2,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 999,
+            "Obtain": "",
+            "Desc": "个体值洗练卡",
+            "Param1": 0,
+            "Param2": 0,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "411001": {
+            "Id": 411001,
+            "Name": "刷新性格材料",
+            "Type": 4,
+            "SubType": 11,
+            "Icon": "petskill1020",
+            "Quality": 2,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 999,
+            "Obtain": "",
+            "Desc": "刷新性格材料",
+            "Param1": 0,
+            "Param2": 0,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "411002": {
+            "Id": 411002,
+            "Name": "合宠丹",
+            "Type": 4,
+            "SubType": 11,
+            "Icon": "petskill1020",
+            "Quality": 2,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 999,
+            "Obtain": "",
+            "Desc": "合宠丹",
+            "Param1": 0,
+            "Param2": 0,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "411003": {
+            "Id": 411003,
+            "Name": "时装3兑换券",
+            "Type": 4,
+            "SubType": 11,
+            "Icon": "petskill1020",
+            "Quality": 2,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 999,
+            "Obtain": "",
+            "Desc": "时装3兑换券",
+            "Param1": 0,
+            "Param2": 0,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "411004": {
+            "Id": 411004,
+            "Name": "时装12兑换券",
+            "Type": 4,
+            "SubType": 11,
+            "Icon": "petskill1020",
+            "Quality": 2,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 999,
+            "Obtain": "",
+            "Desc": "时装12兑换券",
+            "Param1": 0,
+            "Param2": 0,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "412001": {
+            "Id": 412001,
+            "Name": "一朵鲜花",
+            "Type": 4,
+            "SubType": 12,
+            "Icon": "petskill1020",
+            "Quality": 2,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 999,
+            "Obtain": "",
+            "Desc": "",
+            "Param1": 10,
+            "Param2": 0,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "412002": {
+            "Id": 412002,
+            "Name": "一束鲜花",
+            "Type": 4,
+            "SubType": 12,
+            "Icon": "petskill1020",
+            "Quality": 3,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 999,
+            "Obtain": "",
+            "Desc": "",
+            "Param1": 100,
+            "Param2": 0,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "501000": {
+            "Id": 501000,
+            "Name": "金币袋子",
+            "Type": 5,
+            "SubType": 1,
+            "Icon": "petskill1020",
+            "Quality": 1,
+            "UseLevel": 1,
+            "Price": 1000,
+            "MaxCount": 10,
+            "Obtain": "",
+            "Desc": "使用后可以获得10000金币",
+            "Param1": 0,
+            "Param2": 0,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "503000": {
+            "Id": 503000,
+            "Name": "宝箱1",
+            "Type": 5,
+            "SubType": 3,
+            "Icon": "petskill1020",
+            "Quality": 2,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 999,
+            "Obtain": "",
+            "Desc": "宝箱1",
+            "Param1": 0,
+            "Param2": 0,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "503001": {
+            "Id": 503001,
+            "Name": "宝箱2",
+            "Type": 5,
+            "SubType": 3,
+            "Icon": "petskill1020",
+            "Quality": 3,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 1000,
+            "Obtain": "",
+            "Desc": "宝箱2",
+            "Param1": 0,
+            "Param2": 0,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "503002": {
+            "Id": 503002,
+            "Name": "宝箱3",
+            "Type": 5,
+            "SubType": 3,
+            "Icon": "petskill1020",
+            "Quality": 4,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 1001,
+            "Obtain": "",
+            "Desc": "宝箱3",
+            "Param1": 0,
+            "Param2": 0,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "503003": {
+            "Id": 503003,
+            "Name": "宝箱4",
+            "Type": 5,
+            "SubType": 3,
+            "Icon": "petskill1020",
+            "Quality": 5,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 1002,
+            "Obtain": "",
+            "Desc": "宝箱4",
+            "Param1": 0,
+            "Param2": 0,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "504000": {
+            "Id": 504000,
+            "Name": "普通抽奖劵",
+            "Type": 5,
+            "SubType": 4,
+            "Icon": "petskill1020",
+            "Quality": 2,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 999,
+            "Obtain": "",
+            "Desc": "普通抽奖劵",
+            "Param1": 0,
+            "Param2": 0,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "504001": {
+            "Id": 504001,
+            "Name": "高级抽奖劵",
+            "Type": 5,
+            "SubType": 4,
+            "Icon": "petskill1020",
+            "Quality": 4,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 999,
+            "Obtain": "",
+            "Desc": "高级抽奖劵",
+            "Param1": 0,
+            "Param2": 0,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "504002": {
+            "Id": 504002,
+            "Name": "铭记卡",
+            "Type": 5,
+            "SubType": 4,
+            "Icon": "petskill1020",
+            "Quality": 4,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 999,
+            "Obtain": "",
+            "Desc": "铭记卡",
+            "Param1": 0,
+            "Param2": 0,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "600101": {
+            "Id": 600101,
+            "Name": "妙蛙种子",
+            "Type": 6,
+            "SubType": 0,
+            "Icon": "petskill1020",
+            "Quality": 0,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 1,
+            "Obtain": "",
+            "Desc": "他出生时便有一粒种子长在背上。那种子还会随著宝可梦长大，所以专家们仍未能肯定他是植物类还是动物类。",
+            "Param1": 200,
+            "Param2": 10,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "600102": {
+            "Id": 600102,
+            "Name": "妙蛙草",
+            "Type": 6,
+            "SubType": 0,
+            "Icon": "petskill1020",
+            "Quality": 0,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 1,
+            "Obtain": "",
+            "Desc": "据说长在背上的花苞在吸收足够的养分后，就会开出大大的花朵。",
+            "Param1": 300,
+            "Param2": 20,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "600103": {
+            "Id": 600103,
+            "Name": "妙蛙花",
+            "Type": 6,
+            "SubType": 0,
+            "Icon": "petskill1020",
+            "Quality": 0,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 1,
+            "Obtain": "",
+            "Desc": "经常在有阳光的地方定住不动，有人猜测它是在进行光合作用。吸取阳光以便获取能量。",
+            "Param1": 400,
+            "Param2": 30,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "600201": {
+            "Id": 600201,
+            "Name": "小火龙",
+            "Type": 6,
+            "SubType": 0,
+            "Icon": "petskill1020",
+            "Quality": 0,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 1,
+            "Obtain": "",
+            "Desc": "从出生开始尾巴上就有燃烧的火焰。火焰消失就是死亡的时候。",
+            "Param1": 200,
+            "Param2": 10,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "600202": {
+            "Id": 600202,
+            "Name": "火火龙",
+            "Type": 6,
+            "SubType": 0,
+            "Icon": "petskill1020",
+            "Quality": 0,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 1,
+            "Obtain": "",
+            "Desc": "会用尾巴将敌人扫倒，然后用尖锐的爪子将敌人切裂。",
+            "Param1": 300,
+            "Param2": 20,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "600203": {
+            "Id": 600203,
+            "Name": "喷火龙",
+            "Type": 6,
+            "SubType": 0,
+            "Icon": "petskill1020",
+            "Quality": 0,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 1,
+            "Obtain": "",
+            "Desc": "強力的噴射火焰，甚至可以把岩石溶化掉。但从来不攻击比他弱小的宝可梦",
+            "Param1": 400,
+            "Param2": 30,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "600301": {
+            "Id": 600301,
+            "Name": "皮卡丘",
+            "Type": 6,
+            "SubType": 0,
+            "Icon": "petskill1020",
+            "Quality": 0,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 1,
+            "Obtain": "",
+            "Desc": "能将电力储存在脸颊上的电力袋里。只要一鼓作气放电的话，就能放出足以招来闪电的电力。",
+            "Param1": 300,
+            "Param2": 10,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "600302": {
+            "Id": 600302,
+            "Name": "雷丘",
+            "Type": 6,
+            "SubType": 0,
+            "Icon": "petskill1020",
+            "Quality": 0,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 1,
+            "Obtain": "",
+            "Desc": "在体内积存电流后，会变成富有攻击性的性格，即使在黑暗的地方，它也能让四周明亮。",
+            "Param1": 400,
+            "Param2": 20,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "600401": {
+            "Id": 600401,
+            "Name": "杰尼龟",
+            "Type": 6,
+            "SubType": 0,
+            "Icon": "petskill1020",
+            "Quality": 0,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 1,
+            "Obtain": "",
+            "Desc": "甲壳的作用不仅仅是用来保护自己。它圆润的外形和表面的沟槽会减小水的阻力，使它能快速地游动。",
+            "Param1": 300,
+            "Param2": 10,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "600402": {
+            "Id": 600402,
+            "Name": "卡咪龟",
+            "Type": 6,
+            "SubType": 0,
+            "Icon": "petskill1020",
+            "Quality": 0,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 1,
+            "Obtain": "",
+            "Desc": "据说它有着１万年的寿命。蓬松的尾巴是长寿的象征，深受人们的喜爱。",
+            "Param1": 400,
+            "Param2": 20,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "600403": {
+            "Id": 600403,
+            "Name": "水箭龟",
+            "Type": 6,
+            "SubType": 0,
+            "Icon": "petskill1020",
+            "Quality": 0,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 1,
+            "Obtain": "",
+            "Desc": "巨大的身体虽然没有速度的优势，但是力量惊人。坚硬的甲壳防御力特高，背上的水炮攻击力威力巨大无比。",
+            "Param1": 300,
+            "Param2": 30,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "600501": {
+            "Id": 600501,
+            "Name": "波波",
+            "Type": 6,
+            "SubType": 0,
+            "Icon": "petskill1020",
+            "Quality": 0,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 1,
+            "Obtain": "",
+            "Desc": "个性非常老实，就算害怕的时候也不会反击，当它将泥沙卷起来时，大部分只是为了保护自己而已。",
+            "Param1": 400,
+            "Param2": 20,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "600502": {
+            "Id": 600502,
+            "Name": "比比鸟",
+            "Type": 6,
+            "SubType": 0,
+            "Icon": "petskill1020",
+            "Quality": 0,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 1,
+            "Obtain": "",
+            "Desc": "一边在广阔的领地上空盘旋，一边搜寻猎物。用发达的爪子捕杀猎物。",
+            "Param1": 300,
+            "Param2": 30,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "600503": {
+            "Id": 600503,
+            "Name": "大比鸟",
+            "Type": 6,
+            "SubType": 0,
+            "Icon": "petskill1020",
+            "Quality": 0,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 1,
+            "Obtain": "",
+            "Desc": "以二马赫的速度飞行，并寻找食物，如果被它那巨大的爪子抓到，将是很可怕的。",
+            "Param1": 400,
+            "Param2": 20,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "600601": {
+            "Id": 600601,
+            "Name": "阿罗拉六尾",
+            "Type": 6,
+            "SubType": 0,
+            "Icon": "petskill1020",
+            "Quality": 0,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 1,
+            "Obtain": "",
+            "Desc": "会喷出零下５０度的冷气，在炎热的时候，用６根尾巴制作冰砾在周围挥洒，让身体冷却下来。",
+            "Param1": 300,
+            "Param2": 30,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "600602": {
+            "Id": 600602,
+            "Name": "阿罗拉九尾",
+            "Type": 6,
+            "SubType": 0,
+            "Icon": "petskill1020",
+            "Quality": 0,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 1,
+            "Obtain": "",
+            "Desc": "性格温和。从体毛中生出冰粒，泼向敌人。如果惹恼它，一瞬间就会被冰镇。",
+            "Param1": 400,
+            "Param2": 20,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "600701": {
+            "Id": 600701,
+            "Name": "超音蝠",
+            "Type": 6,
+            "SubType": 0,
+            "Icon": "petskill1020",
+            "Quality": 0,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 1,
+            "Obtain": "",
+            "Desc": "利用发出的超音波飞行。躲在阴暗洞窟平时很少出来。",
+            "Param1": 300,
+            "Param2": 30,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "600702": {
+            "Id": 600702,
+            "Name": "大嘴蝠",
+            "Type": 6,
+            "SubType": 0,
+            "Icon": "petskill1020",
+            "Quality": 0,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 1,
+            "Obtain": "",
+            "Desc": "咬住就不会松口。因为会拼命地不停吸血，所以有时会重得无法靠自己飞行。",
+            "Param1": 400,
+            "Param2": 20,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "600801": {
+            "Id": 600801,
+            "Name": "喵喵",
+            "Type": 6,
+            "SubType": 0,
+            "Icon": "petskill1020",
+            "Quality": 0,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 1,
+            "Obtain": "",
+            "Desc": "最喜欢闪亮炫目的东西。找到发亮的东西之后，不知为何额头上的硬币也会发光。",
+            "Param1": 300,
+            "Param2": 30,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "600802": {
+            "Id": 600802,
+            "Name": "猫老大",
+            "Type": 6,
+            "SubType": 0,
+            "Icon": "petskill1020",
+            "Quality": 0,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 1,
+            "Obtain": "",
+            "Desc": "性情粗暴，只要视线对上就会猛扑过来。被锐利的爪子抓到的话，就会留下很深的伤口。额头上宝石的大小是它的粉丝谈论的热门话题。",
+            "Param1": 400,
+            "Param2": 20,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "600901": {
+            "Id": 600901,
+            "Name": "猴怪",
+            "Type": 6,
+            "SubType": 0,
+            "Icon": "petskill1020",
+            "Quality": 0,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 1,
+            "Obtain": "",
+            "Desc": "出拳神速，步伐轻盈。性格很凶暴，如果被惹火而暴走将无法制止。",
+            "Param1": 300,
+            "Param2": 30,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "601000": {
+            "Id": 601000,
+            "Name": "测试宠物",
+            "Type": 6,
+            "SubType": 1,
+            "Icon": "petskill1020",
+            "Quality": 2,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 1,
+            "Obtain": "",
+            "Desc": "测试宠物的描述，文字大概有30个字的样子吧，再凑凑就够字数了，啊，还是不够吗",
+            "Param1": 0,
+            "Param2": 0,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "601001": {
+            "Id": 601001,
+            "Name": "小磁怪",
+            "Type": 6,
+            "SubType": 0,
+            "Icon": "petskill1020",
+            "Quality": 0,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 1,
+            "Obtain": "",
+            "Desc": "与生俱来拥有可以遮断重力的能力。边放出电磁波边在空中移动。",
+            "Param1": 400,
+            "Param2": 20,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "601002": {
+            "Id": 601002,
+            "Name": "三合一磁怪",
+            "Type": 6,
+            "SubType": 0,
+            "Icon": "petskill1020",
+            "Quality": 0,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 1,
+            "Obtain": "",
+            "Desc": "由多个小磁怪连接而成，会发出强力的磁力和高电压。",
+            "Param1": 300,
+            "Param2": 30,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "601101": {
+            "Id": 601101,
+            "Name": "鬼斯",
+            "Type": 6,
+            "SubType": 0,
+            "Icon": "petskill1020",
+            "Quality": 0,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 1,
+            "Obtain": "",
+            "Desc": "从气体中诞生的生命体。如果被含毒的气体状身体裹住的话，不管是谁都会昏迷过去。",
+            "Param1": 400,
+            "Param2": 20,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "601102": {
+            "Id": 601102,
+            "Name": "鬼斯通",
+            "Type": 6,
+            "SubType": 0,
+            "Icon": "petskill1020",
+            "Quality": 0,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 1,
+            "Obtain": "",
+            "Desc": "即使看到浮现在黑暗中的鬼斯通在向你招手，也绝对不要靠近哦。靠近它就会被它的舌头舔到并吸走生命。",
+            "Param1": 300,
+            "Param2": 30,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "601103": {
+            "Id": 601103,
+            "Name": "耿鬼",
+            "Type": 6,
+            "SubType": 0,
+            "Icon": "petskill1020",
+            "Quality": 0,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 1,
+            "Obtain": "",
+            "Desc": "会在半夜潜入人的影子，一点点地夺走人的体温。如果被它盯上，就会全身不停地发冷。",
+            "Param1": 400,
+            "Param2": 20,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "601201": {
+            "Id": 601201,
+            "Name": "独角犀牛",
+            "Type": 6,
+            "SubType": 0,
+            "Icon": "petskill1020",
+            "Quality": 0,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 1,
+            "Obtain": "",
+            "Desc": "虽然头脑很差但力气很大，可以用撞击把高楼大厦撞得粉粹。",
+            "Param1": 300,
+            "Param2": 30,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "601202": {
+            "Id": 601202,
+            "Name": "钻角犀兽",
+            "Type": 6,
+            "SubType": 0,
+            "Icon": "petskill1020",
+            "Quality": 0,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 1,
+            "Obtain": "",
+            "Desc": "全身被铠甲般的皮肤保护着。甚至能在２０００度的熔岩里生存。",
+            "Param1": 400,
+            "Param2": 20,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "601301": {
+            "Id": 601301,
+            "Name": "拉普拉斯",
+            "Type": 6,
+            "SubType": 0,
+            "Icon": "petskill1020",
+            "Quality": 0,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 1,
+            "Obtain": "",
+            "Desc": "可以理解人语，有高度智慧的宝可梦。个性温和，不喜欢战斗。喜欢背上载人的宝可梦。",
+            "Param1": 300,
+            "Param2": 30,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "601401": {
+            "Id": 601401,
+            "Name": "哈克龙",
+            "Type": 6,
+            "SubType": 0,
+            "Icon": "petskill1020",
+            "Quality": 0,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 1,
+            "Obtain": "",
+            "Desc": "被称为神圣的宝可梦。全身隐隐地发光时，周围的天气就会发生变化。",
+            "Param1": 400,
+            "Param2": 20,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "601402": {
+            "Id": 601402,
+            "Name": "快龙",
+            "Type": 6,
+            "SubType": 0,
+            "Icon": "petskill1020",
+            "Quality": 0,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 1,
+            "Obtain": "",
+            "Desc": "体型很大，能在空中飞行。大约只需１６小时就能绕地球１周。如果发现有在暴风雨中遇难的船只，就会将其引导到陆地边上的善良的宝可梦。",
+            "Param1": 300,
+            "Param2": 30,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "601501": {
+            "Id": 601501,
+            "Name": "超梦",
+            "Type": 6,
+            "SubType": 0,
+            "Icon": "petskill1020",
+            "Quality": 0,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 1,
+            "Obtain": "",
+            "Desc": "通过操作遗传基因而制造出来的宝可梦。人类的科学力量可以造出它的身体，却无法造出一颗温柔的心。",
+            "Param1": 400,
+            "Param2": 20,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "601502": {
+            "Id": 601502,
+            "Name": "梦幻",
+            "Type": 6,
+            "SubType": 0,
+            "Icon": "petskill1020",
+            "Quality": 0,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 1,
+            "Obtain": "",
+            "Desc": "据说它有着所有宝可梦的遗传基因。因为可以随心所欲地隐形，所以就算接近人类也完全不会被察觉。",
+            "Param1": 300,
+            "Param2": 30,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "601601": {
+            "Id": 601601,
+            "Name": "圆丝蛛",
+            "Type": 6,
+            "SubType": 0,
+            "Icon": "petskill1020",
+            "Quality": 0,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 1,
+            "Obtain": "",
+            "Desc": "在猎物上门之前，会在自己的巢穴中好几天保持同一姿势，一动不动地持续等待。",
+            "Param1": 400,
+            "Param2": 20,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "601701": {
+            "Id": 601701,
+            "Name": "壶壶",
+            "Type": 6,
+            "SubType": 0,
+            "Icon": "petskill1020",
+            "Quality": 0,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 1,
+            "Obtain": "",
+            "Desc": "会在岩石下面一边吃着甲壳里储存的树果一边隐藏身体。树果和体液混合后会变成果汁。",
+            "Param1": 300,
+            "Param2": 30,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "601801": {
+            "Id": 601801,
+            "Name": "赫拉克罗斯",
+            "Type": 6,
+            "SubType": 0,
+            "Icon": "petskill1020",
+            "Quality": 0,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 1,
+            "Obtain": "",
+            "Desc": "为了寻找甜美的树汁而聚集在森林里。全身被宛如铁一样坚硬的皮肤所包覆。以其最自豪的角将对手抛出去。",
+            "Param1": 400,
+            "Param2": 20,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "601901": {
+            "Id": 601901,
+            "Name": "长毛猪",
+            "Type": 6,
+            "SubType": 0,
+            "Icon": "petskill1020",
+            "Quality": 0,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 1,
+            "Obtain": "",
+            "Desc": "身上覆盖着可以抵抗冰寒的又厚又长的毛皮。会用牙齿挖出埋在冰里的食物。",
+            "Param1": 300,
+            "Param2": 30,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "602001": {
+            "Id": 602001,
+            "Name": "戴鲁比",
+            "Type": 6,
+            "SubType": 0,
+            "Icon": "petskill1020",
+            "Quality": 0,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 1,
+            "Obtain": "",
+            "Desc": "会使用各种不同的叫声联络伙伴，并将猎物逼入绝境。优秀的团队合作能力在宝可梦中首屈一指。",
+            "Param1": 400,
+            "Param2": 20,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "602002": {
+            "Id": 602002,
+            "Name": "黑鲁加",
+            "Type": 6,
+            "SubType": 0,
+            "Icon": "petskill1020",
+            "Quality": 0,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 1,
+            "Obtain": "",
+            "Desc": "口中喷出的火焰中带着体内的毒素。有刺鼻的味道。听到其恐怖的叫声的宝可梦，都会胆怯地一溜烟跑回自己的巢里。",
+            "Param1": 300,
+            "Param2": 30,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "602101": {
+            "Id": 602101,
+            "Name": "幸福蛋",
+            "Type": 6,
+            "SubType": 0,
+            "Icon": "petskill1020",
+            "Quality": 0,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 1,
+            "Obtain": "",
+            "Desc": "性格善良，发现生病的宝可梦便会照顾其直到康复为止。",
+            "Param1": 400,
+            "Param2": 20,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "602201": {
+            "Id": 602201,
+            "Name": "雷公",
+            "Type": 6,
+            "SubType": 0,
+            "Icon": "petskill1020",
+            "Quality": 0,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 1,
+            "Obtain": "",
+            "Desc": "因为背着雨云，所以无论何时都能释放雷电。据说是和雷电一同降临的宝可梦。",
+            "Param1": 300,
+            "Param2": 30,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "602301": {
+            "Id": 602301,
+            "Name": "炎帝",
+            "Type": 6,
+            "SubType": 0,
+            "Icon": "petskill1020",
+            "Quality": 0,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 1,
+            "Obtain": "",
+            "Desc": "体内蕴藏着熔岩般热情的宝可梦。被认为是从火山的喷发中诞生，能喷出燃尽一切的火焰。",
+            "Param1": 400,
+            "Param2": 20,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "602401": {
+            "Id": 602401,
+            "Name": "水君",
+            "Type": 6,
+            "SubType": 0,
+            "Icon": "petskill1020",
+            "Quality": 0,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 1,
+            "Obtain": "",
+            "Desc": "拥有瞬间净化肮脏浑水的力量。据说是北风的化身。",
+            "Param1": 300,
+            "Param2": 30,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "602501": {
+            "Id": 602501,
+            "Name": "沙基拉斯",
+            "Type": 6,
+            "SubType": 0,
+            "Icon": "petskill1020",
+            "Quality": 0,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 1,
+            "Obtain": "",
+            "Desc": "被甲壳覆盖，却能够自由地跳来跳去，同时拥有硬度跟速度因此破坏力超群。",
+            "Param1": 400,
+            "Param2": 20,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "602502": {
+            "Id": 602502,
+            "Name": "班基拉斯",
+            "Type": 6,
+            "SubType": 0,
+            "Icon": "petskill1020",
+            "Quality": 0,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 1,
+            "Obtain": "",
+            "Desc": "体内蕴含着只需要动一只手就能让大山崩塌，并引起地震的绝世力量。",
+            "Param1": 300,
+            "Param2": 30,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "602601": {
+            "Id": 602601,
+            "Name": "洛奇亚",
+            "Type": 6,
+            "SubType": 0,
+            "Icon": "petskill1020",
+            "Quality": 0,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 1,
+            "Obtain": "",
+            "Desc": "被传为海神的宝可梦。流传着在暴风雨之夜见过其身影的传说。",
+            "Param1": 400,
+            "Param2": 20,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "602701": {
+            "Id": 602701,
+            "Name": "凤王",
+            "Type": 6,
+            "SubType": 0,
+            "Icon": "petskill1020",
+            "Quality": 0,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 1,
+            "Obtain": "",
+            "Desc": "据说会一边闪耀着七彩翅膀，一边出现在正直的训练家面前。",
+            "Param1": 300,
+            "Param2": 30,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "602801": {
+            "Id": 602801,
+            "Name": "土狼犬",
+            "Type": 6,
+            "SubType": 0,
+            "Icon": "petskill1020",
+            "Quality": 0,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 1,
+            "Obtain": "",
+            "Desc": "找到动的东西就会立刻咬上去。虽然在猎物精疲力尽之前会一直追着不放，但受到反击的话，有时也会被吓退。",
+            "Param1": 400,
+            "Param2": 20,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "602901": {
+            "Id": 602901,
+            "Name": "拉鲁拉丝",
+            "Type": 6,
+            "SubType": 0,
+            "Icon": "petskill1020",
+            "Quality": 0,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 1,
+            "Obtain": "",
+            "Desc": "能用头上的角感知人的情绪。虽然几乎不会出现在人的面前，但感受到积极向上的情绪后就会靠过来。",
+            "Param1": 300,
+            "Param2": 30,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "602902": {
+            "Id": 602902,
+            "Name": "奇鲁莉安",
+            "Type": 6,
+            "SubType": 0,
+            "Icon": "petskill1020",
+            "Quality": 0,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 1,
+            "Obtain": "",
+            "Desc": "据说经常接触训练家开朗情绪的奇鲁莉安会成长得十分美丽。会用发达的头脑来操纵精神力量。",
+            "Param1": 400,
+            "Param2": 20,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "602903": {
+            "Id": 602903,
+            "Name": "沙奈朵",
+            "Type": 6,
+            "SubType": 0,
+            "Icon": "petskill1020",
+            "Quality": 0,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 1,
+            "Obtain": "",
+            "Desc": "由于是用超能力来支撑着身体，因此似乎感受不到重力，为了保护训练家可以赌上自己的生命。",
+            "Param1": 300,
+            "Param2": 30,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "603001": {
+            "Id": 603001,
+            "Name": "阿勃梭鲁",
+            "Type": 6,
+            "SubType": 0,
+            "Icon": "petskill1020",
+            "Quality": 0,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 1,
+            "Obtain": "",
+            "Desc": "有着能够预知灾害的能力，只有当预知到危险时才会出现在人类面前。",
+            "Param1": 400,
+            "Param2": 20,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "603101": {
+            "Id": 603101,
+            "Name": "金属怪",
+            "Type": 6,
+            "SubType": 0,
+            "Icon": "petskill1020",
+            "Quality": 0,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 1,
+            "Obtain": "",
+            "Desc": "两手上的爪子能将厚重的铁板像丝绸一样地撕裂破坏。能以时速100公里在空中飞行。 ",
+            "Param1": 300,
+            "Param2": 30,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "603102": {
+            "Id": 603102,
+            "Name": "巨金怪",
+            "Type": 6,
+            "SubType": 0,
+            "Icon": "petskill1020",
+            "Quality": 0,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 1,
+            "Obtain": "",
+            "Desc": "４个大脑能比超级计算机更快运算出复杂计算的答案。可以收起４只脚浮在空中。",
+            "Param1": 400,
+            "Param2": 20,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "603201": {
+            "Id": 603201,
+            "Name": "盖欧卡",
+            "Type": 6,
+            "SubType": 0,
+            "Icon": "petskill1020",
+            "Quality": 0,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 1,
+            "Obtain": "",
+            "Desc": "盖欧卡拥有生成足以掩盖整个天空的庞大雨云，并引发瓢泼大雨的力量。这只精灵曾拯救过饱受干日照害的人们。",
+            "Param1": 300,
+            "Param2": 30,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "603301": {
+            "Id": 603301,
+            "Name": "固拉多",
+            "Type": 6,
+            "SubType": 0,
+            "Icon": "petskill1020",
+            "Quality": 0,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 1,
+            "Obtain": "",
+            "Desc": "古拉多拥有使雨云消失，用强光和高温蒸发水分的力量。它曾作为救星出现在饱受洪水灾害的人们面前。",
+            "Param1": 400,
+            "Param2": 20,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "603401": {
+            "Id": 603401,
+            "Name": "烈空坐",
+            "Type": 6,
+            "SubType": 0,
+            "Icon": "petskill1020",
+            "Quality": 0,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 1,
+            "Obtain": "",
+            "Desc": "在臭氧层中生活了数亿年的宝可梦。半夜时飞翔的姿态就像流星一样。",
+            "Param1": 300,
+            "Param2": 30,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "603501": {
+            "Id": 603501,
+            "Name": "路卡利欧",
+            "Type": 6,
+            "SubType": 0,
+            "Icon": "petskill1020",
+            "Quality": 0,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 1,
+            "Obtain": "",
+            "Desc": "有着可以接受任何东西发出的波导的能力，能够理解人类语言。",
+            "Param1": 400,
+            "Param2": 20,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "603601": {
+            "Id": 603601,
+            "Name": "洛托姆",
+            "Type": 6,
+            "SubType": 0,
+            "Icon": "petskill1020",
+            "Quality": 0,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 1,
+            "Obtain": "",
+            "Desc": "它的身体就像电一样，能进入某些机器的内部。同时利用机器化的身体恶作剧。",
+            "Param1": 300,
+            "Param2": 30,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "603701": {
+            "Id": 603701,
+            "Name": "帝牙卢卡",
+            "Type": 6,
+            "SubType": 0,
+            "Icon": "petskill1020",
+            "Quality": 0,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 1,
+            "Obtain": "",
+            "Desc": "凭借自己操纵时间的流动从而能够移动到过去和未来。",
+            "Param1": 400,
+            "Param2": 20,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "603801": {
+            "Id": 603801,
+            "Name": "帕路奇亚",
+            "Type": 6,
+            "SubType": 0,
+            "Icon": "petskill1020",
+            "Quality": 0,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 1,
+            "Obtain": "",
+            "Desc": "凭借自己操纵空间的连接从而能够移动到远处的异空间。",
+            "Param1": 300,
+            "Param2": 30,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "603901": {
+            "Id": 603901,
+            "Name": "骑拉帝纳",
+            "Type": 6,
+            "SubType": 0,
+            "Icon": "petskill1020",
+            "Quality": 0,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 1,
+            "Obtain": "",
+            "Desc": "因为性格粗暴而被驱逐，一直待在毁坏的世界里，静静地看着原来的世界。",
+            "Param1": 400,
+            "Param2": 20,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "604001": {
+            "Id": 604001,
+            "Name": "达克莱伊",
+            "Type": 6,
+            "SubType": 0,
+            "Icon": "petskill1020",
+            "Quality": 0,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 1,
+            "Obtain": "",
+            "Desc": "为了保护自己，会让周围的人或神奇宝贝做噩梦。但是它本身并没有恶意。",
+            "Param1": 300,
+            "Param2": 30,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "604101": {
+            "Id": 604101,
+            "Name": "阿尔宙斯",
+            "Type": 6,
+            "SubType": 0,
+            "Icon": "petskill1020",
+            "Quality": 0,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 1,
+            "Obtain": "",
+            "Desc": "从虚无之地的蛋中诞生，之后创造了世界。",
+            "Param1": 400,
+            "Param2": 20,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "604201": {
+            "Id": 604201,
+            "Name": "哈约克",
+            "Type": 6,
+            "SubType": 0,
+            "Icon": "petskill1020",
+            "Quality": 0,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 1,
+            "Obtain": "",
+            "Desc": "帮助训练家的同时，也照料其他的宝可梦，是非常忠诚的宝可梦。",
+            "Param1": 300,
+            "Param2": 30,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "604202": {
+            "Id": 604202,
+            "Name": "长毛狗",
+            "Type": 6,
+            "SubType": 0,
+            "Icon": "petskill1020",
+            "Quality": 0,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 1,
+            "Obtain": "",
+            "Desc": "如果被它长长的体毛包裹着，就会变得温暖又舒适，即使是在冬天的山上也能淡定地度过一晚。",
+            "Param1": 400,
+            "Param2": 20,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "604301": {
+            "Id": 604301,
+            "Name": "螺钉地鼠",
+            "Type": 6,
+            "SubType": 0,
+            "Icon": "petskill1020",
+            "Quality": 0,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 1,
+            "Obtain": "",
+            "Desc": "将双掌上的爪子并拢，并让身体高速旋转的话，就会以迅猛的速度在地里前进。",
+            "Param1": 300,
+            "Param2": 30,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "604401": {
+            "Id": 604401,
+            "Name": "木棉球",
+            "Type": 6,
+            "SubType": 0,
+            "Icon": "petskill1020",
+            "Quality": 0,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 1,
+            "Obtain": "",
+            "Desc": "一旦被袭击就会从体内喷出棉花。趁着敌人把棉花错认为木棉球时逃之夭夭。",
+            "Param1": 400,
+            "Param2": 20,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "604402": {
+            "Id": 604402,
+            "Name": "风妖精",
+            "Type": 6,
+            "SubType": 0,
+            "Icon": "petskill1020",
+            "Quality": 0,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 1,
+            "Obtain": "",
+            "Desc": "伴随着旋风出现，把家里的家具挪来挪去，或留下棉花来恶作剧。",
+            "Param1": 300,
+            "Param2": 30,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "604501": {
+            "Id": 604501,
+            "Name": "凯路迪欧",
+            "Type": 6,
+            "SubType": 0,
+            "Icon": "petskill1020",
+            "Quality": 0,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 1,
+            "Obtain": "",
+            "Desc": "通过令自己觉悟，让全身充满力量，变得敏捷，如果跳起来，只能看到残影。",
+            "Param1": 400,
+            "Param2": 20,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "604601": {
+            "Id": 604601,
+            "Name": "坐骑山羊",
+            "Type": 6,
+            "SubType": 0,
+            "Icon": "petskill1020",
+            "Quality": 0,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 1,
+            "Obtain": "",
+            "Desc": "从握角的细微差异就能读取训练家的心情，所以会心灵一体奔跑。",
+            "Param1": 300,
+            "Param2": 30,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "604701": {
+            "Id": 604701,
+            "Name": "冰雪龙",
+            "Type": 6,
+            "SubType": 0,
+            "Icon": "petskill1020",
+            "Quality": 0,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 1,
+            "Obtain": "",
+            "Desc": "从１亿年前起就处于冰封状态的身体的一部分复活而来的古代宝可梦。",
+            "Param1": 400,
+            "Param2": 20,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "604702": {
+            "Id": 604702,
+            "Name": "冰雪巨龙",
+            "Type": 6,
+            "SubType": 0,
+            "Icon": "petskill1020",
+            "Quality": 0,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 1,
+            "Obtain": "",
+            "Desc": "从身上的菱形结晶里放出零下１５０度的冷气，把敌人包住并冰封起来。",
+            "Param1": 300,
+            "Param2": 30,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "604801": {
+            "Id": 604801,
+            "Name": "咚咚鼠",
+            "Type": 6,
+            "SubType": 0,
+            "Icon": "petskill1020",
+            "Quality": 0,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 1,
+            "Obtain": "",
+            "Desc": "胡子起着天线的作用。用它来收发电波，与远处的伙伴保持联络。",
+            "Param1": 400,
+            "Param2": 20,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "604901": {
+            "Id": 604901,
+            "Name": "小木灵",
+            "Type": 6,
+            "SubType": 0,
+            "Icon": "petskill1020",
+            "Quality": 0,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 1,
+            "Obtain": "",
+            "Desc": "据说，在森林中迷路死去的孩子的魂魄寄生在树桩上，变成了宝可梦。",
+            "Param1": 300,
+            "Param2": 30,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "701000": {
+            "Id": 701000,
+            "Name": "礼物1",
+            "Type": 7,
+            "SubType": 1,
+            "Icon": "petskill1020",
+            "Quality": 2,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 999,
+            "Obtain": "",
+            "Desc": "测试礼物1",
+            "Param1": 1,
+            "Param2": 0,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "701001": {
+            "Id": 701001,
+            "Name": "礼物2",
+            "Type": 7,
+            "SubType": 1,
+            "Icon": "petskill1020",
+            "Quality": 3,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 999,
+            "Obtain": "",
+            "Desc": "测试礼物2",
+            "Param1": 1,
+            "Param2": 1,
+            "Param3": 50,
+            "Param4": ""
+        },
+        "701002": {
+            "Id": 701002,
+            "Name": "礼物3",
+            "Type": 7,
+            "SubType": 1,
+            "Icon": "petskill1020",
+            "Quality": 3,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 999,
+            "Obtain": "",
+            "Desc": "测试礼物3",
+            "Param1": 2,
+            "Param2": 1,
+            "Param3": 60,
+            "Param4": ""
+        },
+        "701003": {
+            "Id": 701003,
+            "Name": "礼物4",
+            "Type": 7,
+            "SubType": 1,
+            "Icon": "petskill1020",
+            "Quality": 4,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 999,
+            "Obtain": "",
+            "Desc": "测试礼物4",
+            "Param1": 3,
+            "Param2": 1,
+            "Param3": 70,
+            "Param4": ""
+        },
+        "701004": {
+            "Id": 701004,
+            "Name": "礼物5",
+            "Type": 7,
+            "SubType": 1,
+            "Icon": "petskill1020",
+            "Quality": 4,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 999,
+            "Obtain": "",
+            "Desc": "测试礼物5",
+            "Param1": 4,
+            "Param2": 1,
+            "Param3": 80,
+            "Param4": ""
+        },
+        "702000": {
+            "Id": 702000,
+            "Name": "礼物6",
+            "Type": 7,
+            "SubType": 2,
+            "Icon": "petskill1020",
+            "Quality": 2,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 999,
+            "Obtain": "",
+            "Desc": "测试礼物6",
+            "Param1": 1,
+            "Param2": 0,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "702001": {
+            "Id": 702001,
+            "Name": "礼物7",
+            "Type": 7,
+            "SubType": 2,
+            "Icon": "petskill1020",
+            "Quality": 2,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 999,
+            "Obtain": "",
+            "Desc": "测试礼物7",
+            "Param1": 1,
+            "Param2": 1,
+            "Param3": 50,
+            "Param4": ""
+        },
+        "702002": {
+            "Id": 702002,
+            "Name": "礼物8",
+            "Type": 7,
+            "SubType": 2,
+            "Icon": "petskill1020",
+            "Quality": 3,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 999,
+            "Obtain": "",
+            "Desc": "测试礼物8",
+            "Param1": 2,
+            "Param2": 1,
+            "Param3": 60,
+            "Param4": ""
+        },
+        "702003": {
+            "Id": 702003,
+            "Name": "礼物9",
+            "Type": 7,
+            "SubType": 2,
+            "Icon": "petskill1020",
+            "Quality": 3,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 999,
+            "Obtain": "",
+            "Desc": "测试礼物9",
+            "Param1": 3,
+            "Param2": 1,
+            "Param3": 70,
+            "Param4": ""
+        },
+        "702004": {
+            "Id": 702004,
+            "Name": "礼物10",
+            "Type": 7,
+            "SubType": 2,
+            "Icon": "petskill1020",
+            "Quality": 4,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 999,
+            "Obtain": "",
+            "Desc": "测试礼物10",
+            "Param1": 4,
+            "Param2": 1,
+            "Param3": 80,
+            "Param4": ""
+        },
+        "702005": {
+            "Id": 702005,
+            "Name": "礼物11",
+            "Type": 7,
+            "SubType": 2,
+            "Icon": "petskill1020",
+            "Quality": 4,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 999,
+            "Obtain": "",
+            "Desc": "测试礼物11",
+            "Param1": 5,
+            "Param2": 0,
+            "Param3": 100,
+            "Param4": ""
+        },
+        "703000": {
+            "Id": 703000,
+            "Name": "礼物12",
+            "Type": 7,
+            "SubType": 3,
+            "Icon": "petskill1020",
+            "Quality": 2,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 999,
+            "Obtain": "",
+            "Desc": "测试礼物12",
+            "Param1": 1,
+            "Param2": 0,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "703001": {
+            "Id": 703001,
+            "Name": "礼物13",
+            "Type": 7,
+            "SubType": 3,
+            "Icon": "petskill1020",
+            "Quality": 2,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 999,
+            "Obtain": "",
+            "Desc": "测试礼物13",
+            "Param1": 1,
+            "Param2": 1,
+            "Param3": 50,
+            "Param4": ""
+        },
+        "703002": {
+            "Id": 703002,
+            "Name": "礼物14",
+            "Type": 7,
+            "SubType": 3,
+            "Icon": "petskill1020",
+            "Quality": 3,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 999,
+            "Obtain": "",
+            "Desc": "测试礼物14",
+            "Param1": 2,
+            "Param2": 1,
+            "Param3": 60,
+            "Param4": ""
+        },
+        "703003": {
+            "Id": 703003,
+            "Name": "礼物15",
+            "Type": 7,
+            "SubType": 3,
+            "Icon": "petskill1020",
+            "Quality": 3,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 999,
+            "Obtain": "",
+            "Desc": "测试礼物15",
+            "Param1": 3,
+            "Param2": 1,
+            "Param3": 70,
+            "Param4": ""
+        },
+        "703004": {
+            "Id": 703004,
+            "Name": "礼物16",
+            "Type": 7,
+            "SubType": 3,
+            "Icon": "petskill1020",
+            "Quality": 4,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 999,
+            "Obtain": "",
+            "Desc": "测试礼物16",
+            "Param1": 4,
+            "Param2": 1,
+            "Param3": 80,
+            "Param4": ""
+        },
+        "703005": {
+            "Id": 703005,
+            "Name": "礼物17",
+            "Type": 7,
+            "SubType": 3,
+            "Icon": "petskill1020",
+            "Quality": 4,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 999,
+            "Obtain": "",
+            "Desc": "测试礼物17",
+            "Param1": 5,
+            "Param2": 0,
+            "Param3": 100,
+            "Param4": ""
+        },
+        "704000": {
+            "Id": 704000,
+            "Name": "礼物18",
+            "Type": 7,
+            "SubType": 4,
+            "Icon": "petskill1020",
+            "Quality": 2,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 999,
+            "Obtain": "",
+            "Desc": "测试礼物18",
+            "Param1": 1,
+            "Param2": 0,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "704001": {
+            "Id": 704001,
+            "Name": "礼物19",
+            "Type": 7,
+            "SubType": 4,
+            "Icon": "petskill1020",
+            "Quality": 2,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 999,
+            "Obtain": "",
+            "Desc": "测试礼物19",
+            "Param1": 1,
+            "Param2": 1,
+            "Param3": 50,
+            "Param4": ""
+        },
+        "704002": {
+            "Id": 704002,
+            "Name": "礼物20",
+            "Type": 7,
+            "SubType": 4,
+            "Icon": "petskill1020",
+            "Quality": 3,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 999,
+            "Obtain": "",
+            "Desc": "测试礼物20",
+            "Param1": 2,
+            "Param2": 1,
+            "Param3": 60,
+            "Param4": ""
+        },
+        "704003": {
+            "Id": 704003,
+            "Name": "礼物21",
+            "Type": 7,
+            "SubType": 4,
+            "Icon": "petskill1020",
+            "Quality": 3,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 999,
+            "Obtain": "",
+            "Desc": "测试礼物21",
+            "Param1": 3,
+            "Param2": 1,
+            "Param3": 70,
+            "Param4": ""
+        },
+        "704004": {
+            "Id": 704004,
+            "Name": "礼物22",
+            "Type": 7,
+            "SubType": 4,
+            "Icon": "petskill1020",
+            "Quality": 4,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 999,
+            "Obtain": "",
+            "Desc": "测试礼物22",
+            "Param1": 4,
+            "Param2": 1,
+            "Param3": 80,
+            "Param4": ""
+        },
+        "704005": {
+            "Id": 704005,
+            "Name": "礼物23",
+            "Type": 7,
+            "SubType": 4,
+            "Icon": "petskill1020",
+            "Quality": 4,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 999,
+            "Obtain": "",
+            "Desc": "测试礼物23",
+            "Param1": 5,
+            "Param2": 0,
+            "Param3": 100,
+            "Param4": ""
+        },
+        "705000": {
+            "Id": 705000,
+            "Name": "礼物24",
+            "Type": 7,
+            "SubType": 5,
+            "Icon": "petskill1020",
+            "Quality": 2,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 999,
+            "Obtain": "",
+            "Desc": "测试礼物24",
+            "Param1": 1,
+            "Param2": 0,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "705001": {
+            "Id": 705001,
+            "Name": "礼物25",
+            "Type": 7,
+            "SubType": 5,
+            "Icon": "petskill1020",
+            "Quality": 2,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 999,
+            "Obtain": "",
+            "Desc": "测试礼物25",
+            "Param1": 1,
+            "Param2": 1,
+            "Param3": 50,
+            "Param4": ""
+        },
+        "705002": {
+            "Id": 705002,
+            "Name": "礼物26",
+            "Type": 7,
+            "SubType": 5,
+            "Icon": "petskill1020",
+            "Quality": 3,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 999,
+            "Obtain": "",
+            "Desc": "测试礼物26",
+            "Param1": 2,
+            "Param2": 1,
+            "Param3": 60,
+            "Param4": ""
+        },
+        "705003": {
+            "Id": 705003,
+            "Name": "礼物27",
+            "Type": 7,
+            "SubType": 5,
+            "Icon": "petskill1020",
+            "Quality": 3,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 999,
+            "Obtain": "",
+            "Desc": "测试礼物27",
+            "Param1": 3,
+            "Param2": 1,
+            "Param3": 70,
+            "Param4": ""
+        },
+        "705004": {
+            "Id": 705004,
+            "Name": "礼物28",
+            "Type": 7,
+            "SubType": 5,
+            "Icon": "petskill1020",
+            "Quality": 4,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 999,
+            "Obtain": "",
+            "Desc": "测试礼物28",
+            "Param1": 4,
+            "Param2": 1,
+            "Param3": 80,
+            "Param4": ""
+        },
+        "705005": {
+            "Id": 705005,
+            "Name": "礼物29",
+            "Type": 7,
+            "SubType": 5,
+            "Icon": "petskill1020",
+            "Quality": 4,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 999,
+            "Obtain": "",
+            "Desc": "测试礼物29",
+            "Param1": 5,
+            "Param2": 0,
+            "Param3": 100,
+            "Param4": ""
+        },
+        "706000": {
+            "Id": 706000,
+            "Name": "礼物30",
+            "Type": 7,
+            "SubType": 6,
+            "Icon": "petskill1020",
+            "Quality": 2,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 999,
+            "Obtain": "",
+            "Desc": "测试礼物30",
+            "Param1": 1,
+            "Param2": 0,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "706001": {
+            "Id": 706001,
+            "Name": "礼物31",
+            "Type": 7,
+            "SubType": 6,
+            "Icon": "petskill1020",
+            "Quality": 2,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 999,
+            "Obtain": "",
+            "Desc": "测试礼物31",
+            "Param1": 1,
+            "Param2": 1,
+            "Param3": 50,
+            "Param4": ""
+        },
+        "706002": {
+            "Id": 706002,
+            "Name": "礼物32",
+            "Type": 7,
+            "SubType": 6,
+            "Icon": "petskill1020",
+            "Quality": 3,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 999,
+            "Obtain": "",
+            "Desc": "测试礼物32",
+            "Param1": 2,
+            "Param2": 1,
+            "Param3": 60,
+            "Param4": ""
+        },
+        "706003": {
+            "Id": 706003,
+            "Name": "礼物33",
+            "Type": 7,
+            "SubType": 6,
+            "Icon": "petskill1020",
+            "Quality": 3,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 999,
+            "Obtain": "",
+            "Desc": "测试礼物33",
+            "Param1": 3,
+            "Param2": 1,
+            "Param3": 70,
+            "Param4": ""
+        },
+        "706004": {
+            "Id": 706004,
+            "Name": "礼物34",
+            "Type": 7,
+            "SubType": 6,
+            "Icon": "petskill1020",
+            "Quality": 4,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 999,
+            "Obtain": "",
+            "Desc": "测试礼物34",
+            "Param1": 4,
+            "Param2": 1,
+            "Param3": 80,
+            "Param4": ""
+        },
+        "706005": {
+            "Id": 706005,
+            "Name": "礼物35",
+            "Type": 7,
+            "SubType": 6,
+            "Icon": "petskill1020",
+            "Quality": 4,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 999,
+            "Obtain": "",
+            "Desc": "测试礼物35",
+            "Param1": 5,
+            "Param2": 0,
+            "Param3": 100,
+            "Param4": ""
+        },
+        "800000": {
+            "Id": 800000,
+            "Name": "普通宝图",
+            "Type": 8,
+            "SubType": 2,
+            "Icon": "petskill1020",
+            "Quality": 2,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 1,
+            "Obtain": "",
+            "Desc": "普通宝图",
+            "Param1": 0,
+            "Param2": 0,
+            "Param3": 0,
+            "Param4": "1,2,3|4"
+        },
+        "800001": {
+            "Id": 800001,
+            "Name": "高级宝图",
+            "Type": 8,
+            "SubType": 2,
+            "Icon": "petskill1020",
+            "Quality": 3,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 1,
+            "Obtain": "",
+            "Desc": "高级宝图",
+            "Param1": 0,
+            "Param2": 0,
+            "Param3": 0,
+            "Param4": "1,2,3|4"
+        },
+        "901000": {
+            "Id": 901000,
+            "Name": "饰品经验材料1",
+            "Type": 9,
+            "SubType": 1,
+            "Icon": "petskill1020",
+            "Quality": 2,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 999,
+            "Obtain": "",
+            "Desc": "饰品经验材料1",
+            "Param1": 0,
+            "Param2": 0,
+            "Param3": 100,
+            "Param4": ""
+        },
+        "901001": {
+            "Id": 901001,
+            "Name": "饰品经验材料2",
+            "Type": 9,
+            "SubType": 1,
+            "Icon": "petskill1020",
+            "Quality": 3,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 999,
+            "Obtain": "",
+            "Desc": "饰品经验材料2",
+            "Param1": 0,
+            "Param2": 0,
+            "Param3": 200,
+            "Param4": ""
+        },
+        "901002": {
+            "Id": 901002,
+            "Name": "饰品经验材料3",
+            "Type": 9,
+            "SubType": 1,
+            "Icon": "petskill1020",
+            "Quality": 4,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 999,
+            "Obtain": "",
+            "Desc": "饰品经验材料3",
+            "Param1": 0,
+            "Param2": 0,
+            "Param3": 300,
+            "Param4": ""
+        },
+        "901003": {
+            "Id": 901003,
+            "Name": "饰品经验材料4",
+            "Type": 9,
+            "SubType": 1,
+            "Icon": "petskill1020",
+            "Quality": 5,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 999,
+            "Obtain": "",
+            "Desc": "饰品经验材料4",
+            "Param1": 0,
+            "Param2": 0,
+            "Param3": 500,
+            "Param4": ""
+        },
+        "902000": {
+            "Id": 902000,
+            "Name": "普通羽灵",
+            "Type": 5,
+            "SubType": 1,
+            "Icon": "petskill1020",
+            "Quality": 2,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 999,
+            "Obtain": "",
+            "Desc": "翅膀升级经验道具1",
+            "Param1": 0,
+            "Param2": 0,
+            "Param3": 100,
+            "Param4": ""
+        },
+        "902001": {
+            "Id": 902001,
+            "Name": "高中级羽灵",
+            "Type": 5,
+            "SubType": 1,
+            "Icon": "petskill1020",
+            "Quality": 3,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 999,
+            "Obtain": "",
+            "Desc": "翅膀升级经验道具2",
+            "Param1": 0,
+            "Param2": 0,
+            "Param3": 200,
+            "Param4": ""
+        },
+        "902002": {
+            "Id": 902002,
+            "Name": "高级羽灵",
+            "Type": 5,
+            "SubType": 1,
+            "Icon": "petskill1020",
+            "Quality": 4,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 999,
+            "Obtain": "",
+            "Desc": "翅膀升级经验道具3",
+            "Param1": 0,
+            "Param2": 0,
+            "Param3": 300,
+            "Param4": ""
+        },
+        "902003": {
+            "Id": 902003,
+            "Name": "顶级羽灵",
+            "Type": 5,
+            "SubType": 1,
+            "Icon": "petskill1020",
+            "Quality": 5,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 999,
+            "Obtain": "",
+            "Desc": "翅膀升级经验道具4",
+            "Param1": 0,
+            "Param2": 0,
+            "Param3": 400,
+            "Param4": ""
+        },
+        "903000": {
+            "Id": 903000,
+            "Name": "宠物经验道具1",
+            "Type": 9,
+            "SubType": 3,
+            "Icon": "petskill1020",
+            "Quality": 1,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 999,
+            "Obtain": "",
+            "Desc": "宠物升级经验道具1",
+            "Param1": 0,
+            "Param2": 0,
+            "Param3": 100,
+            "Param4": ""
+        },
+        "903001": {
+            "Id": 903001,
+            "Name": "宠物经验道具2",
+            "Type": 9,
+            "SubType": 3,
+            "Icon": "petskill1020",
+            "Quality": 2,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 999,
+            "Obtain": "",
+            "Desc": "宠物升级经验道具2",
+            "Param1": 0,
+            "Param2": 0,
+            "Param3": 200,
+            "Param4": ""
+        },
+        "903002": {
+            "Id": 903002,
+            "Name": "宠物经验道具3",
+            "Type": 9,
+            "SubType": 3,
+            "Icon": "petskill1020",
+            "Quality": 3,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 999,
+            "Obtain": "",
+            "Desc": "宠物升级经验道具3",
+            "Param1": 0,
+            "Param2": 0,
+            "Param3": 300,
+            "Param4": ""
+        },
+        "903003": {
+            "Id": 903003,
+            "Name": "宠物经验道具4",
+            "Type": 9,
+            "SubType": 3,
+            "Icon": "petskill1020",
+            "Quality": 4,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 999,
+            "Obtain": "",
+            "Desc": "宠物升级经验道具4",
+            "Param1": 0,
+            "Param2": 0,
+            "Param3": 400,
+            "Param4": ""
+        },
+        "904000": {
+            "Id": 904000,
+            "Name": "融合经验卡",
+            "Type": 9,
+            "SubType": 4,
+            "Icon": "petskill1020",
+            "Quality": 4,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 999,
+            "Obtain": "",
+            "Desc": "宠物融合经验卡",
+            "Param1": 0,
+            "Param2": 0,
+            "Param3": 200,
+            "Param4": ""
+        },
+        "1000001": {
+            "Id": 1000001,
+            "Name": "技能书1",
+            "Type": 10,
+            "SubType": 0,
+            "Icon": "petskill1020",
+            "Quality": 2,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 1,
+            "Obtain": "",
+            "Desc": "技能书1",
+            "Param1": 311,
+            "Param2": 0,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "1000002": {
+            "Id": 1000002,
+            "Name": "技能书2",
+            "Type": 10,
+            "SubType": 0,
+            "Icon": "petskill1020",
+            "Quality": 3,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 1,
+            "Obtain": "",
+            "Desc": "技能书2",
+            "Param1": 312,
+            "Param2": 0,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "1000003": {
+            "Id": 1000003,
+            "Name": "技能书3",
+            "Type": 10,
+            "SubType": 0,
+            "Icon": "petskill1020",
+            "Quality": 4,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 1,
+            "Obtain": "",
+            "Desc": "技能书3",
+            "Param1": 313,
+            "Param2": 0,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "1000004": {
+            "Id": 1000004,
+            "Name": "技能书4",
+            "Type": 10,
+            "SubType": 0,
+            "Icon": "petskill1020",
+            "Quality": 5,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 1,
+            "Obtain": "",
+            "Desc": "技能书4",
+            "Param1": 314,
+            "Param2": 0,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "1100001": {
+            "Id": 1100001,
+            "Name": "原始女装",
+            "Type": 11,
+            "SubType": 0,
+            "Icon": "",
+            "Quality": 0,
+            "UseLevel": 0,
+            "Price": 0,
+            "MaxCount": 0,
+            "Obtain": "",
+            "Desc": "",
+            "Param1": 0,
+            "Param2": 0,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "1100002": {
+            "Id": 1100002,
+            "Name": "时装2",
+            "Type": 11,
+            "SubType": 0,
+            "Icon": "",
+            "Quality": 0,
+            "UseLevel": 0,
+            "Price": 0,
+            "MaxCount": 0,
+            "Obtain": "",
+            "Desc": "",
+            "Param1": 0,
+            "Param2": 0,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "1100003": {
+            "Id": 1100003,
+            "Name": "时装3",
+            "Type": 11,
+            "SubType": 0,
+            "Icon": "",
+            "Quality": 0,
+            "UseLevel": 0,
+            "Price": 0,
+            "MaxCount": 0,
+            "Obtain": "",
+            "Desc": "",
+            "Param1": 0,
+            "Param2": 0,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "1100004": {
+            "Id": 1100004,
+            "Name": "时装4",
+            "Type": 11,
+            "SubType": 0,
+            "Icon": "",
+            "Quality": 0,
+            "UseLevel": 0,
+            "Price": 0,
+            "MaxCount": 0,
+            "Obtain": "",
+            "Desc": "",
+            "Param1": 0,
+            "Param2": 0,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "1100005": {
+            "Id": 1100005,
+            "Name": "时装5",
+            "Type": 11,
+            "SubType": 0,
+            "Icon": "",
+            "Quality": 0,
+            "UseLevel": 0,
+            "Price": 0,
+            "MaxCount": 0,
+            "Obtain": "",
+            "Desc": "",
+            "Param1": 0,
+            "Param2": 0,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "1100006": {
+            "Id": 1100006,
+            "Name": "时装6",
+            "Type": 11,
+            "SubType": 0,
+            "Icon": "",
+            "Quality": 0,
+            "UseLevel": 0,
+            "Price": 0,
+            "MaxCount": 0,
+            "Obtain": "",
+            "Desc": "",
+            "Param1": 0,
+            "Param2": 0,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "1100007": {
+            "Id": 1100007,
+            "Name": "时装7",
+            "Type": 11,
+            "SubType": 0,
+            "Icon": "",
+            "Quality": 0,
+            "UseLevel": 0,
+            "Price": 0,
+            "MaxCount": 0,
+            "Obtain": "",
+            "Desc": "",
+            "Param1": 0,
+            "Param2": 0,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "1100008": {
+            "Id": 1100008,
+            "Name": "时装8",
+            "Type": 11,
+            "SubType": 0,
+            "Icon": "",
+            "Quality": 0,
+            "UseLevel": 0,
+            "Price": 0,
+            "MaxCount": 0,
+            "Obtain": "",
+            "Desc": "",
+            "Param1": 0,
+            "Param2": 0,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "1100009": {
+            "Id": 1100009,
+            "Name": "时装9",
+            "Type": 11,
+            "SubType": 0,
+            "Icon": "",
+            "Quality": 0,
+            "UseLevel": 0,
+            "Price": 0,
+            "MaxCount": 0,
+            "Obtain": "",
+            "Desc": "",
+            "Param1": 0,
+            "Param2": 0,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "1100010": {
+            "Id": 1100010,
+            "Name": "时装10",
+            "Type": 11,
+            "SubType": 0,
+            "Icon": "",
+            "Quality": 0,
+            "UseLevel": 0,
+            "Price": 0,
+            "MaxCount": 0,
+            "Obtain": "",
+            "Desc": "",
+            "Param1": 0,
+            "Param2": 0,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "1101001": {
+            "Id": 1101001,
+            "Name": "原始男装",
+            "Type": 11,
+            "SubType": 0,
+            "Icon": "",
+            "Quality": 0,
+            "UseLevel": 0,
+            "Price": 0,
+            "MaxCount": 0,
+            "Obtain": "",
+            "Desc": "",
+            "Param1": 0,
+            "Param2": 0,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "1101002": {
+            "Id": 1101002,
+            "Name": "时装12",
+            "Type": 11,
+            "SubType": 0,
+            "Icon": "",
+            "Quality": 0,
+            "UseLevel": 0,
+            "Price": 0,
+            "MaxCount": 0,
+            "Obtain": "",
+            "Desc": "",
+            "Param1": 0,
+            "Param2": 0,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "1101003": {
+            "Id": 1101003,
+            "Name": "时装13",
+            "Type": 11,
+            "SubType": 0,
+            "Icon": "",
+            "Quality": 0,
+            "UseLevel": 0,
+            "Price": 0,
+            "MaxCount": 0,
+            "Obtain": "",
+            "Desc": "",
+            "Param1": 0,
+            "Param2": 0,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "1101004": {
+            "Id": 1101004,
+            "Name": "时装14",
+            "Type": 11,
+            "SubType": 0,
+            "Icon": "",
+            "Quality": 0,
+            "UseLevel": 0,
+            "Price": 0,
+            "MaxCount": 0,
+            "Obtain": "",
+            "Desc": "",
+            "Param1": 0,
+            "Param2": 0,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "1101005": {
+            "Id": 1101005,
+            "Name": "时装15",
+            "Type": 11,
+            "SubType": 0,
+            "Icon": "",
+            "Quality": 0,
+            "UseLevel": 0,
+            "Price": 0,
+            "MaxCount": 0,
+            "Obtain": "",
+            "Desc": "",
+            "Param1": 0,
+            "Param2": 0,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "1101006": {
+            "Id": 1101006,
+            "Name": "时装16",
+            "Type": 11,
+            "SubType": 0,
+            "Icon": "",
+            "Quality": 0,
+            "UseLevel": 0,
+            "Price": 0,
+            "MaxCount": 0,
+            "Obtain": "",
+            "Desc": "",
+            "Param1": 0,
+            "Param2": 0,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "1101007": {
+            "Id": 1101007,
+            "Name": "时装17",
+            "Type": 11,
+            "SubType": 0,
+            "Icon": "",
+            "Quality": 0,
+            "UseLevel": 0,
+            "Price": 0,
+            "MaxCount": 0,
+            "Obtain": "",
+            "Desc": "",
+            "Param1": 0,
+            "Param2": 0,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "1101008": {
+            "Id": 1101008,
+            "Name": "时装18",
+            "Type": 11,
+            "SubType": 0,
+            "Icon": "",
+            "Quality": 0,
+            "UseLevel": 0,
+            "Price": 0,
+            "MaxCount": 0,
+            "Obtain": "",
+            "Desc": "",
+            "Param1": 0,
+            "Param2": 0,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "1101009": {
+            "Id": 1101009,
+            "Name": "时装19",
+            "Type": 11,
+            "SubType": 0,
+            "Icon": "",
+            "Quality": 0,
+            "UseLevel": 0,
+            "Price": 0,
+            "MaxCount": 0,
+            "Obtain": "",
+            "Desc": "",
+            "Param1": 0,
+            "Param2": 0,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "1101010": {
+            "Id": 1101010,
+            "Name": "时装20",
+            "Type": 11,
+            "SubType": 0,
+            "Icon": "",
+            "Quality": 0,
+            "UseLevel": 0,
+            "Price": 0,
+            "MaxCount": 0,
+            "Obtain": "",
+            "Desc": "",
+            "Param1": 0,
+            "Param2": 0,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "1200001": {
+            "Id": 1200001,
+            "Name": "见习训练师",
+            "Type": 12,
+            "SubType": 0,
+            "Icon": "ch-xyx",
+            "Quality": 0,
+            "UseLevel": 0,
+            "Price": 0,
+            "MaxCount": 0,
+            "Obtain": "",
+            "Desc": "",
+            "Param1": 0,
+            "Param2": 0,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "1200002": {
+            "Id": 1200002,
+            "Name": "高朋满座",
+            "Type": 12,
+            "SubType": 0,
+            "Icon": "ch-gpmz",
+            "Quality": 0,
+            "UseLevel": 0,
+            "Price": 0,
+            "MaxCount": 0,
+            "Obtain": "",
+            "Desc": "",
+            "Param1": 0,
+            "Param2": 0,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "1200003": {
+            "Id": 1200003,
+            "Name": "竞技大师",
+            "Type": 12,
+            "SubType": 0,
+            "Icon": "ch-jjds",
+            "Quality": 0,
+            "UseLevel": 0,
+            "Price": 0,
+            "MaxCount": 0,
+            "Obtain": "",
+            "Desc": "",
+            "Param1": 0,
+            "Param2": 0,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "1200004": {
+            "Id": 1200004,
+            "Name": "天天签到",
+            "Type": 12,
+            "SubType": 0,
+            "Icon": "ch-ttqd",
+            "Quality": 0,
+            "UseLevel": 0,
+            "Price": 0,
+            "MaxCount": 0,
+            "Obtain": "",
+            "Desc": "",
+            "Param1": 0,
+            "Param2": 0,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "1200005": {
+            "Id": 1200005,
+            "Name": "BOSS杀手",
+            "Type": 12,
+            "SubType": 0,
+            "Icon": "ch-jtls",
+            "Quality": 0,
+            "UseLevel": 0,
+            "Price": 0,
+            "MaxCount": 0,
+            "Obtain": "",
+            "Desc": "",
+            "Param1": 0,
+            "Param2": 0,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "1200006": {
+            "Id": 1200006,
+            "Name": "BOSS终结者",
+            "Type": 12,
+            "SubType": 0,
+            "Icon": "ch-jtplz",
+            "Quality": 0,
+            "UseLevel": 0,
+            "Price": 0,
+            "MaxCount": 0,
+            "Obtain": "",
+            "Desc": "",
+            "Param1": 0,
+            "Param2": 0,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "1200007": {
+            "Id": 1200007,
+            "Name": "强化大师",
+            "Type": 12,
+            "SubType": 0,
+            "Icon": "ch-qhds",
+            "Quality": 0,
+            "UseLevel": 0,
+            "Price": 0,
+            "MaxCount": 0,
+            "Obtain": "",
+            "Desc": "",
+            "Param1": 0,
+            "Param2": 0,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "1200008": {
+            "Id": 1200008,
+            "Name": "精炼大师",
+            "Type": 12,
+            "SubType": 0,
+            "Icon": "ch-jlds",
+            "Quality": 0,
+            "UseLevel": 0,
+            "Price": 0,
+            "MaxCount": 0,
+            "Obtain": "",
+            "Desc": "",
+            "Param1": 0,
+            "Param2": 0,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "1200009": {
+            "Id": 1200009,
+            "Name": "高端精灵",
+            "Type": 12,
+            "SubType": 0,
+            "Icon": "ch-fdbd",
+            "Quality": 0,
+            "UseLevel": 0,
+            "Price": 0,
+            "MaxCount": 0,
+            "Obtain": "",
+            "Desc": "",
+            "Param1": 0,
+            "Param2": 0,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "1200010": {
+            "Id": 1200010,
+            "Name": "贵宾",
+            "Type": 12,
+            "SubType": 0,
+            "Icon": "ch-gb",
+            "Quality": 0,
+            "UseLevel": 0,
+            "Price": 0,
+            "MaxCount": 0,
+            "Obtain": "",
+            "Desc": "",
+            "Param1": 0,
+            "Param2": 0,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "1200011": {
+            "Id": 1200011,
+            "Name": "贵族",
+            "Type": 12,
+            "SubType": 0,
+            "Icon": "ch-gz",
+            "Quality": 0,
+            "UseLevel": 0,
+            "Price": 0,
+            "MaxCount": 0,
+            "Obtain": "",
+            "Desc": "",
+            "Param1": 0,
+            "Param2": 0,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "1200012": {
+            "Id": 1200012,
+            "Name": "九五至尊",
+            "Type": 12,
+            "SubType": 0,
+            "Icon": "ch-jwzz",
+            "Quality": 0,
+            "UseLevel": 0,
+            "Price": 0,
+            "MaxCount": 0,
+            "Obtain": "",
+            "Desc": "",
+            "Param1": 0,
+            "Param2": 0,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "1300000": {
+            "Id": 1300000,
+            "Name": "妈妈的信",
+            "Type": 13,
+            "SubType": 0,
+            "Icon": "",
+            "Quality": 0,
+            "UseLevel": 0,
+            "Price": 0,
+            "MaxCount": 0,
+            "Obtain": "",
+            "Desc": "妈妈的信，是写给谁的呢",
+            "Param1": 0,
+            "Param2": 0,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "1300001": {
+            "Id": 1300001,
+            "Name": "采集道具",
+            "Type": 13,
+            "SubType": 0,
+            "Icon": "",
+            "Quality": 0,
+            "UseLevel": 0,
+            "Price": 0,
+            "MaxCount": 0,
+            "Obtain": "",
+            "Desc": "采集出来的道具",
+            "Param1": 0,
+            "Param2": 0,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "1300002": {
+            "Id": 1300002,
+            "Name": "小智的钱包",
+            "Type": 13,
+            "SubType": 0,
+            "Icon": "",
+            "Quality": 0,
+            "UseLevel": 0,
+            "Price": 0,
+            "MaxCount": 0,
+            "Obtain": "",
+            "Desc": "小智的钱包",
+            "Param1": 0,
+            "Param2": 0,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "3010001": {
+            "Id": 3010001,
+            "Name": "人物武器1",
+            "Type": 3,
+            "SubType": 1,
+            "Icon": "petskill1020",
+            "Quality": 2,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 1,
+            "Obtain": "",
+            "Desc": "人物武器1",
+            "Param1": 100,
+            "Param2": 0,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "3010002": {
+            "Id": 3010002,
+            "Name": "人物武器2",
+            "Type": 3,
+            "SubType": 1,
+            "Icon": "petskill1020",
+            "Quality": 3,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 1,
+            "Obtain": "",
+            "Desc": "人物武器2",
+            "Param1": 200,
+            "Param2": 0,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "3010003": {
+            "Id": 3010003,
+            "Name": "红装1",
+            "Type": 3,
+            "SubType": 1,
+            "Icon": "petskill1020",
+            "Quality": 6,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 1,
+            "Obtain": "",
+            "Desc": "红装1",
+            "Param1": 100,
+            "Param2": 0,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "3010004": {
+            "Id": 3010004,
+            "Name": "红装2",
+            "Type": 3,
+            "SubType": 1,
+            "Icon": "petskill1020",
+            "Quality": 6,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 1,
+            "Obtain": "",
+            "Desc": "红装2",
+            "Param1": 200,
+            "Param2": 0,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "3010005": {
+            "Id": 3010005,
+            "Name": "红装3",
+            "Type": 3,
+            "SubType": 1,
+            "Icon": "petskill1020",
+            "Quality": 6,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 1,
+            "Obtain": "",
+            "Desc": "红装3",
+            "Param1": 300,
+            "Param2": 0,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "3020001": {
+            "Id": 3020001,
+            "Name": "人物衣服1",
+            "Type": 3,
+            "SubType": 2,
+            "Icon": "petskill1020",
+            "Quality": 2,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 1,
+            "Obtain": "",
+            "Desc": "人物衣服1",
+            "Param1": 100,
+            "Param2": 0,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "3020002": {
+            "Id": 3020002,
+            "Name": "人物衣服2",
+            "Type": 3,
+            "SubType": 2,
+            "Icon": "petskill1020",
+            "Quality": 3,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 1,
+            "Obtain": "",
+            "Desc": "人物衣服2",
+            "Param1": 200,
+            "Param2": 0,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "3030001": {
+            "Id": 3030001,
+            "Name": "人物裤子1",
+            "Type": 3,
+            "SubType": 3,
+            "Icon": "petskill1020",
+            "Quality": 2,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 1,
+            "Obtain": "",
+            "Desc": "人物裤子1",
+            "Param1": 100,
+            "Param2": 0,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "3030002": {
+            "Id": 3030002,
+            "Name": "人物裤子2",
+            "Type": 3,
+            "SubType": 3,
+            "Icon": "petskill1020",
+            "Quality": 3,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 1,
+            "Obtain": "",
+            "Desc": "人物裤子2",
+            "Param1": 200,
+            "Param2": 0,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "3040001": {
+            "Id": 3040001,
+            "Name": "人物鞋子1",
+            "Type": 3,
+            "SubType": 4,
+            "Icon": "petskill1020",
+            "Quality": 2,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 1,
+            "Obtain": "",
+            "Desc": "人物鞋子1",
+            "Param1": 100,
+            "Param2": 0,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "3040002": {
+            "Id": 3040002,
+            "Name": "人物鞋子2",
+            "Type": 3,
+            "SubType": 4,
+            "Icon": "petskill1020",
+            "Quality": 3,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 1,
+            "Obtain": "",
+            "Desc": "人物鞋子2",
+            "Param1": 200,
+            "Param2": 0,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "3050001": {
+            "Id": 3050001,
+            "Name": "戒指",
+            "Type": 3,
+            "SubType": 5,
+            "Icon": "petskill1020",
+            "Quality": 4,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 1,
+            "Obtain": "",
+            "Desc": "戒指",
+            "Param1": 100,
+            "Param2": 0,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "3060001": {
+            "Id": 3060001,
+            "Name": "项链",
+            "Type": 3,
+            "SubType": 6,
+            "Icon": "petskill1020",
+            "Quality": 4,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 1,
+            "Obtain": "",
+            "Desc": "项链",
+            "Param1": 200,
+            "Param2": 0,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "3070001": {
+            "Id": 3070001,
+            "Name": "宝物1",
+            "Type": 3,
+            "SubType": 7,
+            "Icon": "petskill1020",
+            "Quality": 2,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 1,
+            "Obtain": "",
+            "Desc": "宝物1",
+            "Param1": 0,
+            "Param2": 0,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "3070002": {
+            "Id": 3070002,
+            "Name": "宝物2",
+            "Type": 3,
+            "SubType": 7,
+            "Icon": "petskill1020",
+            "Quality": 3,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 1,
+            "Obtain": "",
+            "Desc": "宝物2",
+            "Param1": 0,
+            "Param2": 0,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "3110001": {
+            "Id": 3110001,
+            "Name": "宠物头盔1",
+            "Type": 3,
+            "SubType": 11,
+            "Icon": "petskill1020",
+            "Quality": 2,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 1,
+            "Obtain": "",
+            "Desc": "宠物头盔1",
+            "Param1": 100,
+            "Param2": 0,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "3110002": {
+            "Id": 3110002,
+            "Name": "宠物头盔2",
+            "Type": 3,
+            "SubType": 11,
+            "Icon": "petskill1020",
+            "Quality": 3,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 1,
+            "Obtain": "",
+            "Desc": "宠物头盔2",
+            "Param1": 200,
+            "Param2": 0,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "3120001": {
+            "Id": 3120001,
+            "Name": "宠物铠甲1",
+            "Type": 3,
+            "SubType": 12,
+            "Icon": "petskill1020",
+            "Quality": 2,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 1,
+            "Obtain": "",
+            "Desc": "宠物铠甲1",
+            "Param1": 100,
+            "Param2": 0,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "3120002": {
+            "Id": 3120002,
+            "Name": "宠物铠甲2",
+            "Type": 3,
+            "SubType": 12,
+            "Icon": "petskill1020",
+            "Quality": 3,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 1,
+            "Obtain": "",
+            "Desc": "宠物铠甲2",
+            "Param1": 200,
+            "Param2": 0,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "3130001": {
+            "Id": 3130001,
+            "Name": "宠物手环1",
+            "Type": 3,
+            "SubType": 13,
+            "Icon": "petskill1020",
+            "Quality": 2,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 1,
+            "Obtain": "",
+            "Desc": "宠物手环1",
+            "Param1": 100,
+            "Param2": 0,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "3130002": {
+            "Id": 3130002,
+            "Name": "宠物手环2",
+            "Type": 3,
+            "SubType": 13,
+            "Icon": "petskill1020",
+            "Quality": 3,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 1,
+            "Obtain": "",
+            "Desc": "宠物手环2",
+            "Param1": 200,
+            "Param2": 0,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "3140001": {
+            "Id": 3140001,
+            "Name": "宠物项圈1",
+            "Type": 3,
+            "SubType": 14,
+            "Icon": "petskill1020",
+            "Quality": 2,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 1,
+            "Obtain": "",
+            "Desc": "宠物项圈1",
+            "Param1": 100,
+            "Param2": 0,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "3140002": {
+            "Id": 3140002,
+            "Name": "宠物项圈2",
+            "Type": 3,
+            "SubType": 14,
+            "Icon": "petskill1020",
+            "Quality": 3,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 1,
+            "Obtain": "",
+            "Desc": "宠物项圈2",
+            "Param1": 200,
+            "Param2": 0,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "3150001": {
+            "Id": 3150001,
+            "Name": "翅膀1",
+            "Type": 3,
+            "SubType": 15,
+            "Icon": "petskill1020",
+            "Quality": 3,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 999,
+            "Obtain": "",
+            "Desc": "翅膀1",
+            "Param1": 0,
+            "Param2": 0,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "3150002": {
+            "Id": 3150002,
+            "Name": "翅膀2",
+            "Type": 3,
+            "SubType": 15,
+            "Icon": "petskill1020",
+            "Quality": 3,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 999,
+            "Obtain": "",
+            "Desc": "翅膀2",
+            "Param1": 0,
+            "Param2": 0,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "3150003": {
+            "Id": 3150003,
+            "Name": "翅膀3",
+            "Type": 3,
+            "SubType": 15,
+            "Icon": "petskill1020",
+            "Quality": 3,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 999,
+            "Obtain": "",
+            "Desc": "翅膀3",
+            "Param1": 0,
+            "Param2": 0,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "3150004": {
+            "Id": 3150004,
+            "Name": "翅膀4",
+            "Type": 3,
+            "SubType": 15,
+            "Icon": "petskill1020",
+            "Quality": 3,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 999,
+            "Obtain": "",
+            "Desc": "翅膀4",
+            "Param1": 0,
+            "Param2": 0,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "3150005": {
+            "Id": 3150005,
+            "Name": "翅膀5",
+            "Type": 3,
+            "SubType": 15,
+            "Icon": "petskill1020",
+            "Quality": 3,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 999,
+            "Obtain": "",
+            "Desc": "翅膀5",
+            "Param1": 0,
+            "Param2": 0,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "3150006": {
+            "Id": 3150006,
+            "Name": "翅膀6",
+            "Type": 3,
+            "SubType": 15,
+            "Icon": "petskill1020",
+            "Quality": 4,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 999,
+            "Obtain": "",
+            "Desc": "翅膀6",
+            "Param1": 0,
+            "Param2": 0,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "3150007": {
+            "Id": 3150007,
+            "Name": "翅膀7",
+            "Type": 3,
+            "SubType": 15,
+            "Icon": "petskill1020",
+            "Quality": 4,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 999,
+            "Obtain": "",
+            "Desc": "翅膀7",
+            "Param1": 0,
+            "Param2": 0,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "3150008": {
+            "Id": 3150008,
+            "Name": "翅膀8",
+            "Type": 3,
+            "SubType": 15,
+            "Icon": "petskill1020",
+            "Quality": 4,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 999,
+            "Obtain": "",
+            "Desc": "翅膀8",
+            "Param1": 0,
+            "Param2": 0,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "3150009": {
+            "Id": 3150009,
+            "Name": "翅膀9",
+            "Type": 3,
+            "SubType": 15,
+            "Icon": "petskill1020",
+            "Quality": 5,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 999,
+            "Obtain": "",
+            "Desc": "翅膀9",
+            "Param1": 0,
+            "Param2": 0,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "3150010": {
+            "Id": 3150010,
+            "Name": "翅膀10",
+            "Type": 3,
+            "SubType": 15,
+            "Icon": "petskill1020",
+            "Quality": 5,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 999,
+            "Obtain": "",
+            "Desc": "翅膀10",
+            "Param1": 0,
+            "Param2": 0,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "31500010": {
+            "Id": 31500010,
+            "Name": "翅膀碎片1",
+            "Type": 2,
+            "SubType": 4,
+            "Icon": "petskill1020",
+            "Quality": 3,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 999,
+            "Obtain": "",
+            "Desc": "翅膀碎片1",
+            "Param1": 10,
+            "Param2": 3150001,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "31500020": {
+            "Id": 31500020,
+            "Name": "翅膀碎片2",
+            "Type": 2,
+            "SubType": 4,
+            "Icon": "petskill1020",
+            "Quality": 3,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 999,
+            "Obtain": "",
+            "Desc": "翅膀碎片2",
+            "Param1": 10,
+            "Param2": 3150002,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "31500030": {
+            "Id": 31500030,
+            "Name": "翅膀碎片3",
+            "Type": 2,
+            "SubType": 4,
+            "Icon": "petskill1020",
+            "Quality": 3,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 999,
+            "Obtain": "",
+            "Desc": "翅膀碎片3",
+            "Param1": 10,
+            "Param2": 3150003,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "31500040": {
+            "Id": 31500040,
+            "Name": "翅膀碎片4",
+            "Type": 2,
+            "SubType": 4,
+            "Icon": "petskill1020",
+            "Quality": 3,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 999,
+            "Obtain": "",
+            "Desc": "翅膀碎片4",
+            "Param1": 10,
+            "Param2": 3150004,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "31500050": {
+            "Id": 31500050,
+            "Name": "翅膀碎片5",
+            "Type": 2,
+            "SubType": 4,
+            "Icon": "petskill1020",
+            "Quality": 3,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 999,
+            "Obtain": "",
+            "Desc": "翅膀碎片5",
+            "Param1": 10,
+            "Param2": 3150005,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "31500060": {
+            "Id": 31500060,
+            "Name": "翅膀碎片6",
+            "Type": 2,
+            "SubType": 4,
+            "Icon": "petskill1020",
+            "Quality": 4,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 999,
+            "Obtain": "",
+            "Desc": "翅膀碎片6",
+            "Param1": 10,
+            "Param2": 3150006,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "31500070": {
+            "Id": 31500070,
+            "Name": "翅膀碎片7",
+            "Type": 2,
+            "SubType": 4,
+            "Icon": "petskill1020",
+            "Quality": 4,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 999,
+            "Obtain": "",
+            "Desc": "翅膀碎片7",
+            "Param1": 10,
+            "Param2": 3150007,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "31500080": {
+            "Id": 31500080,
+            "Name": "翅膀碎片8",
+            "Type": 2,
+            "SubType": 4,
+            "Icon": "petskill1020",
+            "Quality": 4,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 999,
+            "Obtain": "",
+            "Desc": "翅膀碎片8",
+            "Param1": 10,
+            "Param2": 3150008,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "31500090": {
+            "Id": 31500090,
+            "Name": "翅膀碎片9",
+            "Type": 2,
+            "SubType": 4,
+            "Icon": "petskill1020",
+            "Quality": 5,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 999,
+            "Obtain": "",
+            "Desc": "翅膀碎片9",
+            "Param1": 10,
+            "Param2": 3150009,
+            "Param3": 0,
+            "Param4": ""
+        },
+        "31500100": {
+            "Id": 31500100,
+            "Name": "翅膀碎片10",
+            "Type": 2,
+            "SubType": 4,
+            "Icon": "petskill1020",
+            "Quality": 5,
+            "UseLevel": 1,
+            "Price": 0,
+            "MaxCount": 999,
+            "Obtain": "",
+            "Desc": "翅膀碎片10",
+            "Param1": 10,
+            "Param2": 3150010,
+            "Param3": 0,
+            "Param4": ""
+        }
+    },
+    "_Group": {
+        "Type": {
+            "1": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                31,
+                32
+            ],
+            "2": [
+                201000,
+                205000,
+                205001,
+                205002,
+                205003,
+                31500010,
+                31500020,
+                31500030,
+                31500040,
+                31500050,
+                31500060,
+                31500070,
+                31500080,
+                31500090,
+                31500100
+            ],
+            "3": [
+                301000,
+                3010001,
+                3010002,
+                3010003,
+                3010004,
+                3010005,
+                3020001,
+                3020002,
+                3030001,
+                3030002,
+                3040001,
+                3040002,
+                3050001,
+                3060001,
+                3070001,
+                3070002,
+                3110001,
+                3110002,
+                3120001,
+                3120002,
+                3130001,
+                3130002,
+                3140001,
+                3140002,
+                3150001,
+                3150002,
+                3150003,
+                3150004,
+                3150005,
+                3150006,
+                3150007,
+                3150008,
+                3150009,
+                3150010
+            ],
+            "4": [
+                401000,
+                401001,
+                401002,
+                401003,
+                402000,
+                402001,
+                402002,
+                402003,
+                403000,
+                403001,
+                403002,
+                403003,
+                403004,
+                403005,
+                404000,
+                405000,
+                406000,
+                407000,
+                408000,
+                408001,
+                408002,
+                409000,
+                409001,
+                409002,
+                409003,
+                409004,
+                409005,
+                409006,
+                409007,
+                410000,
+                410001,
+                410002,
+                411000,
+                411001,
+                411002,
+                411003,
+                411004,
+                412001,
+                412002
+            ],
+            "5": [
+                501000,
+                503000,
+                503001,
+                503002,
+                503003,
+                504000,
+                504001,
+                504002,
+                902000,
+                902001,
+                902002,
+                902003
+            ],
+            "6": [
+                600101,
+                600102,
+                600103,
+                600201,
+                600202,
+                600203,
+                600301,
+                600302,
+                600401,
+                600402,
+                600403,
+                600501,
+                600502,
+                600503,
+                600601,
+                600602,
+                600701,
+                600702,
+                600801,
+                600802,
+                600901,
+                601000,
+                601001,
+                601002,
+                601101,
+                601102,
+                601103,
+                601201,
+                601202,
+                601301,
+                601401,
+                601402,
+                601501,
+                601502,
+                601601,
+                601701,
+                601801,
+                601901,
+                602001,
+                602002,
+                602101,
+                602201,
+                602301,
+                602401,
+                602501,
+                602502,
+                602601,
+                602701,
+                602801,
+                602901,
+                602902,
+                602903,
+                603001,
+                603101,
+                603102,
+                603201,
+                603301,
+                603401,
+                603501,
+                603601,
+                603701,
+                603801,
+                603901,
+                604001,
+                604101,
+                604201,
+                604202,
+                604301,
+                604401,
+                604402,
+                604501,
+                604601,
+                604701,
+                604702,
+                604801,
+                604901
+            ],
+            "7": [
+                701000,
+                701001,
+                701002,
+                701003,
+                701004,
+                702000,
+                702001,
+                702002,
+                702003,
+                702004,
+                702005,
+                703000,
+                703001,
+                703002,
+                703003,
+                703004,
+                703005,
+                704000,
+                704001,
+                704002,
+                704003,
+                704004,
+                704005,
+                705000,
+                705001,
+                705002,
+                705003,
+                705004,
+                705005,
+                706000,
+                706001,
+                706002,
+                706003,
+                706004,
+                706005
+            ],
+            "8": [
+                800000,
+                800001
+            ],
+            "9": [
+                901000,
+                901001,
+                901002,
+                901003,
+                903000,
+                903001,
+                903002,
+                903003,
+                904000
+            ],
+            "10": [
+                1000001,
+                1000002,
+                1000003,
+                1000004
+            ],
+            "11": [
+                1100001,
+                1100002,
+                1100003,
+                1100004,
+                1100005,
+                1100006,
+                1100007,
+                1100008,
+                1100009,
+                1100010,
+                1101001,
+                1101002,
+                1101003,
+                1101004,
+                1101005,
+                1101006,
+                1101007,
+                1101008,
+                1101009,
+                1101010
+            ],
+            "12": [
+                1200001,
+                1200002,
+                1200003,
+                1200004,
+                1200005,
+                1200006,
+                1200007,
+                1200008,
+                1200009,
+                1200010,
+                1200011,
+                1200012
+            ],
+            "13": [
+                1300000,
+                1300001,
+                1300002
+            ]
+        },
+        "Type_SubType": {
+            "1": {
+                "1": [
+                    1
+                ],
+                "2": [
+                    2
+                ],
+                "3": [
+                    3
+                ],
+                "4": [
+                    4
+                ],
+                "5": [
+                    5
+                ],
+                "6": [
+                    6
+                ],
+                "7": [
+                    7
+                ],
+                "8": [
+                    8
+                ],
+                "9": [
+                    9
+                ],
+                "10": [
+                    10
+                ],
+                "11": [
+                    11
+                ],
+                "12": [
+                    12
+                ],
+                "13": [
+                    13
+                ],
+                "31": [
+                    31
+                ],
+                "32": [
+                    32
+                ]
+            },
+            "2": {
+                "1": [
+                    201000
+                ],
+                "5": [
+                    205000,
+                    205001,
+                    205002,
+                    205003
+                ],
+                "4": [
+                    31500010,
+                    31500020,
+                    31500030,
+                    31500040,
+                    31500050,
+                    31500060,
+                    31500070,
+                    31500080,
+                    31500090,
+                    31500100
+                ]
+            },
+            "3": {
+                "1": [
+                    301000,
+                    3010001,
+                    3010002,
+                    3010003,
+                    3010004,
+                    3010005
+                ],
+                "2": [
+                    3020001,
+                    3020002
+                ],
+                "3": [
+                    3030001,
+                    3030002
+                ],
+                "4": [
+                    3040001,
+                    3040002
+                ],
+                "5": [
+                    3050001
+                ],
+                "6": [
+                    3060001
+                ],
+                "7": [
+                    3070001,
+                    3070002
+                ],
+                "11": [
+                    3110001,
+                    3110002
+                ],
+                "12": [
+                    3120001,
+                    3120002
+                ],
+                "13": [
+                    3130001,
+                    3130002
+                ],
+                "14": [
+                    3140001,
+                    3140002
+                ],
+                "15": [
+                    3150001,
+                    3150002,
+                    3150003,
+                    3150004,
+                    3150005,
+                    3150006,
+                    3150007,
+                    3150008,
+                    3150009,
+                    3150010
+                ]
+            },
+            "4": {
+                "1": [
+                    401000,
+                    401001,
+                    401002,
+                    401003
+                ],
+                "2": [
+                    402000,
+                    402001,
+                    402002,
+                    402003
+                ],
+                "3": [
+                    403000,
+                    403001,
+                    403002,
+                    403003,
+                    403004,
+                    403005
+                ],
+                "4": [
+                    404000
+                ],
+                "5": [
+                    405000
+                ],
+                "6": [
+                    406000
+                ],
+                "7": [
+                    407000
+                ],
+                "8": [
+                    408000,
+                    408001,
+                    408002
+                ],
+                "9": [
+                    409000,
+                    409001,
+                    409002,
+                    409003,
+                    409004,
+                    409005,
+                    409006,
+                    409007
+                ],
+                "10": [
+                    410000,
+                    410001,
+                    410002
+                ],
+                "11": [
+                    411000,
+                    411001,
+                    411002,
+                    411003,
+                    411004
+                ],
+                "12": [
+                    412001,
+                    412002
+                ]
+            },
+            "5": {
+                "1": [
+                    501000,
+                    902000,
+                    902001,
+                    902002,
+                    902003
+                ],
+                "3": [
+                    503000,
+                    503001,
+                    503002,
+                    503003
+                ],
+                "4": [
+                    504000,
+                    504001,
+                    504002
+                ]
+            },
+            "6": {
+                "0": [
+                    600101,
+                    600102,
+                    600103,
+                    600201,
+                    600202,
+                    600203,
+                    600301,
+                    600302,
+                    600401,
+                    600402,
+                    600403,
+                    600501,
+                    600502,
+                    600503,
+                    600601,
+                    600602,
+                    600701,
+                    600702,
+                    600801,
+                    600802,
+                    600901,
+                    601001,
+                    601002,
+                    601101,
+                    601102,
+                    601103,
+                    601201,
+                    601202,
+                    601301,
+                    601401,
+                    601402,
+                    601501,
+                    601502,
+                    601601,
+                    601701,
+                    601801,
+                    601901,
+                    602001,
+                    602002,
+                    602101,
+                    602201,
+                    602301,
+                    602401,
+                    602501,
+                    602502,
+                    602601,
+                    602701,
+                    602801,
+                    602901,
+                    602902,
+                    602903,
+                    603001,
+                    603101,
+                    603102,
+                    603201,
+                    603301,
+                    603401,
+                    603501,
+                    603601,
+                    603701,
+                    603801,
+                    603901,
+                    604001,
+                    604101,
+                    604201,
+                    604202,
+                    604301,
+                    604401,
+                    604402,
+                    604501,
+                    604601,
+                    604701,
+                    604702,
+                    604801,
+                    604901
+                ],
+                "1": [
+                    601000
+                ]
+            },
+            "7": {
+                "1": [
+                    701000,
+                    701001,
+                    701002,
+                    701003,
+                    701004
+                ],
+                "2": [
+                    702000,
+                    702001,
+                    702002,
+                    702003,
+                    702004,
+                    702005
+                ],
+                "3": [
+                    703000,
+                    703001,
+                    703002,
+                    703003,
+                    703004,
+                    703005
+                ],
+                "4": [
+                    704000,
+                    704001,
+                    704002,
+                    704003,
+                    704004,
+                    704005
+                ],
+                "5": [
+                    705000,
+                    705001,
+                    705002,
+                    705003,
+                    705004,
+                    705005
+                ],
+                "6": [
+                    706000,
+                    706001,
+                    706002,
+                    706003,
+                    706004,
+                    706005
+                ]
+            },
+            "8": {
+                "2": [
+                    800000,
+                    800001
+                ]
+            },
+            "9": {
+                "1": [
+                    901000,
+                    901001,
+                    901002,
+                    901003
+                ],
+                "3": [
+                    903000,
+                    903001,
+                    903002,
+                    903003
+                ],
+                "4": [
+                    904000
+                ]
+            },
+            "10": {
+                "0": [
+                    1000001,
+                    1000002,
+                    1000003,
+                    1000004
+                ]
+            },
+            "11": {
+                "0": [
+                    1100001,
+                    1100002,
+                    1100003,
+                    1100004,
+                    1100005,
+                    1100006,
+                    1100007,
+                    1100008,
+                    1100009,
+                    1100010,
+                    1101001,
+                    1101002,
+                    1101003,
+                    1101004,
+                    1101005,
+                    1101006,
+                    1101007,
+                    1101008,
+                    1101009,
+                    1101010
+                ]
+            },
+            "12": {
+                "0": [
+                    1200001,
+                    1200002,
+                    1200003,
+                    1200004,
+                    1200005,
+                    1200006,
+                    1200007,
+                    1200008,
+                    1200009,
+                    1200010,
+                    1200011,
+                    1200012
+                ]
+            },
+            "13": {
+                "0": [
+                    1300000,
+                    1300001,
+                    1300002
+                ]
+            }
+        },
+        "Type_SubType_Param1": {
+            "1": {
+                "1": {
+                    "0": [
+                        1
+                    ]
+                },
+                "2": {
+                    "0": [
+                        2
+                    ]
+                },
+                "3": {
+                    "0": [
+                        3
+                    ]
+                },
+                "4": {
+                    "0": [
+                        4
+                    ]
+                },
+                "5": {
+                    "0": [
+                        5
+                    ]
+                },
+                "6": {
+                    "0": [
+                        6
+                    ]
+                },
+                "7": {
+                    "0": [
+                        7
+                    ]
+                },
+                "8": {
+                    "0": [
+                        8
+                    ]
+                },
+                "9": {
+                    "0": [
+                        9
+                    ]
+                },
+                "10": {
+                    "0": [
+                        10
+                    ]
+                },
+                "11": {
+                    "0": [
+                        11
+                    ]
+                },
+                "12": {
+                    "0": [
+                        12
+                    ]
+                },
+                "13": {
+                    "0": [
+                        13
+                    ]
+                },
+                "31": {
+                    "0": [
+                        31
+                    ]
+                },
+                "32": {
+                    "0": [
+                        32
+                    ]
+                }
+            },
+            "2": {
+                "1": {
+                    "0": [
+                        201000
+                    ]
+                },
+                "5": {
+                    "0": [
+                        205000,
+                        205001,
+                        205002,
+                        205003
+                    ]
+                },
+                "4": {
+                    "10": [
+                        31500010,
+                        31500020,
+                        31500030,
+                        31500040,
+                        31500050,
+                        31500060,
+                        31500070,
+                        31500080,
+                        31500090,
+                        31500100
+                    ]
+                }
+            },
+            "3": {
+                "1": {
+                    "0": [
+                        301000
+                    ],
+                    "100": [
+                        3010001,
+                        3010003
+                    ],
+                    "200": [
+                        3010002,
+                        3010004
+                    ],
+                    "300": [
+                        3010005
+                    ]
+                },
+                "2": {
+                    "100": [
+                        3020001
+                    ],
+                    "200": [
+                        3020002
+                    ]
+                },
+                "3": {
+                    "100": [
+                        3030001
+                    ],
+                    "200": [
+                        3030002
+                    ]
+                },
+                "4": {
+                    "100": [
+                        3040001
+                    ],
+                    "200": [
+                        3040002
+                    ]
+                },
+                "5": {
+                    "100": [
+                        3050001
+                    ]
+                },
+                "6": {
+                    "200": [
+                        3060001
+                    ]
+                },
+                "7": {
+                    "0": [
+                        3070001,
+                        3070002
+                    ]
+                },
+                "11": {
+                    "100": [
+                        3110001
+                    ],
+                    "200": [
+                        3110002
+                    ]
+                },
+                "12": {
+                    "100": [
+                        3120001
+                    ],
+                    "200": [
+                        3120002
+                    ]
+                },
+                "13": {
+                    "100": [
+                        3130001
+                    ],
+                    "200": [
+                        3130002
+                    ]
+                },
+                "14": {
+                    "100": [
+                        3140001
+                    ],
+                    "200": [
+                        3140002
+                    ]
+                },
+                "15": {
+                    "0": [
+                        3150001,
+                        3150002,
+                        3150003,
+                        3150004,
+                        3150005,
+                        3150006,
+                        3150007,
+                        3150008,
+                        3150009,
+                        3150010
+                    ]
+                }
+            },
+            "4": {
+                "1": {
+                    "100": [
+                        401000
+                    ],
+                    "200": [
+                        401001
+                    ],
+                    "300": [
+                        401002
+                    ],
+                    "400": [
+                        401003
+                    ]
+                },
+                "2": {
+                    "100": [
+                        402000
+                    ],
+                    "200": [
+                        402001
+                    ],
+                    "300": [
+                        402002
+                    ],
+                    "400": [
+                        402003
+                    ]
+                },
+                "3": {
+                    "0": [
+                        403000,
+                        403001,
+                        403002,
+                        403003,
+                        403004,
+                        403005
+                    ]
+                },
+                "4": {
+                    "0": [
+                        404000
+                    ]
+                },
+                "5": {
+                    "0": [
+                        405000
+                    ]
+                },
+                "6": {
+                    "0": [
+                        406000
+                    ]
+                },
+                "7": {
+                    "0": [
+                        407000
+                    ]
+                },
+                "8": {
+                    "1": [
+                        408000
+                    ],
+                    "2": [
+                        408001
+                    ],
+                    "3": [
+                        408002
+                    ]
+                },
+                "9": {
+                    "0": [
+                        409000,
+                        409001,
+                        409002,
+                        409003,
+                        409004,
+                        409005,
+                        409006,
+                        409007
+                    ]
+                },
+                "10": {
+                    "0": [
+                        410000,
+                        410001,
+                        410002
+                    ]
+                },
+                "11": {
+                    "0": [
+                        411000,
+                        411001,
+                        411002,
+                        411003,
+                        411004
+                    ]
+                },
+                "12": {
+                    "10": [
+                        412001
+                    ],
+                    "100": [
+                        412002
+                    ]
+                }
+            },
+            "5": {
+                "1": {
+                    "0": [
+                        501000,
+                        902000,
+                        902001,
+                        902002,
+                        902003
+                    ]
+                },
+                "3": {
+                    "0": [
+                        503000,
+                        503001,
+                        503002,
+                        503003
+                    ]
+                },
+                "4": {
+                    "0": [
+                        504000,
+                        504001,
+                        504002
+                    ]
+                }
+            },
+            "6": {
+                "0": {
+                    "200": [
+                        600101,
+                        600201
+                    ],
+                    "300": [
+                        600102,
+                        600202,
+                        600301,
+                        600401,
+                        600403,
+                        600502,
+                        600601,
+                        600701,
+                        600801,
+                        600901,
+                        601002,
+                        601102,
+                        601201,
+                        601301,
+                        601402,
+                        601502,
+                        601701,
+                        601901,
+                        602002,
+                        602201,
+                        602401,
+                        602502,
+                        602701,
+                        602901,
+                        602903,
+                        603101,
+                        603201,
+                        603401,
+                        603601,
+                        603801,
+                        604001,
+                        604201,
+                        604301,
+                        604402,
+                        604601,
+                        604702,
+                        604901
+                    ],
+                    "400": [
+                        600103,
+                        600203,
+                        600302,
+                        600402,
+                        600501,
+                        600503,
+                        600602,
+                        600702,
+                        600802,
+                        601001,
+                        601101,
+                        601103,
+                        601202,
+                        601401,
+                        601501,
+                        601601,
+                        601801,
+                        602001,
+                        602101,
+                        602301,
+                        602501,
+                        602601,
+                        602801,
+                        602902,
+                        603001,
+                        603102,
+                        603301,
+                        603501,
+                        603701,
+                        603901,
+                        604101,
+                        604202,
+                        604401,
+                        604501,
+                        604701,
+                        604801
+                    ]
+                },
+                "1": {
+                    "0": [
+                        601000
+                    ]
+                }
+            },
+            "7": {
+                "1": {
+                    "1": [
+                        701000,
+                        701001
+                    ],
+                    "2": [
+                        701002
+                    ],
+                    "3": [
+                        701003
+                    ],
+                    "4": [
+                        701004
+                    ]
+                },
+                "2": {
+                    "1": [
+                        702000,
+                        702001
+                    ],
+                    "2": [
+                        702002
+                    ],
+                    "3": [
+                        702003
+                    ],
+                    "4": [
+                        702004
+                    ],
+                    "5": [
+                        702005
+                    ]
+                },
+                "3": {
+                    "1": [
+                        703000,
+                        703001
+                    ],
+                    "2": [
+                        703002
+                    ],
+                    "3": [
+                        703003
+                    ],
+                    "4": [
+                        703004
+                    ],
+                    "5": [
+                        703005
+                    ]
+                },
+                "4": {
+                    "1": [
+                        704000,
+                        704001
+                    ],
+                    "2": [
+                        704002
+                    ],
+                    "3": [
+                        704003
+                    ],
+                    "4": [
+                        704004
+                    ],
+                    "5": [
+                        704005
+                    ]
+                },
+                "5": {
+                    "1": [
+                        705000,
+                        705001
+                    ],
+                    "2": [
+                        705002
+                    ],
+                    "3": [
+                        705003
+                    ],
+                    "4": [
+                        705004
+                    ],
+                    "5": [
+                        705005
+                    ]
+                },
+                "6": {
+                    "1": [
+                        706000,
+                        706001
+                    ],
+                    "2": [
+                        706002
+                    ],
+                    "3": [
+                        706003
+                    ],
+                    "4": [
+                        706004
+                    ],
+                    "5": [
+                        706005
+                    ]
+                }
+            },
+            "8": {
+                "2": {
+                    "0": [
+                        800000,
+                        800001
+                    ]
+                }
+            },
+            "9": {
+                "1": {
+                    "0": [
+                        901000,
+                        901001,
+                        901002,
+                        901003
+                    ]
+                },
+                "3": {
+                    "0": [
+                        903000,
+                        903001,
+                        903002,
+                        903003
+                    ]
+                },
+                "4": {
+                    "0": [
+                        904000
+                    ]
+                }
+            },
+            "10": {
+                "0": {
+                    "311": [
+                        1000001
+                    ],
+                    "312": [
+                        1000002
+                    ],
+                    "313": [
+                        1000003
+                    ],
+                    "314": [
+                        1000004
+                    ]
+                }
+            },
+            "11": {
+                "0": {
+                    "0": [
+                        1100001,
+                        1100002,
+                        1100003,
+                        1100004,
+                        1100005,
+                        1100006,
+                        1100007,
+                        1100008,
+                        1100009,
+                        1100010,
+                        1101001,
+                        1101002,
+                        1101003,
+                        1101004,
+                        1101005,
+                        1101006,
+                        1101007,
+                        1101008,
+                        1101009,
+                        1101010
+                    ]
+                }
+            },
+            "12": {
+                "0": {
+                    "0": [
+                        1200001,
+                        1200002,
+                        1200003,
+                        1200004,
+                        1200005,
+                        1200006,
+                        1200007,
+                        1200008,
+                        1200009,
+                        1200010,
+                        1200011,
+                        1200012
+                    ]
+                }
+            },
+            "13": {
+                "0": {
+                    "0": [
+                        1300000,
+                        1300001,
+                        1300002
+                    ]
+                }
+            }
+        },
+        "Type_SubType_Param1_Param2": {
+            "1": {
+                "1": {
+                    "0": {
+                        "0": [
+                            1
+                        ]
+                    }
+                },
+                "2": {
+                    "0": {
+                        "0": [
+                            2
+                        ]
+                    }
+                },
+                "3": {
+                    "0": {
+                        "0": [
+                            3
+                        ]
+                    }
+                },
+                "4": {
+                    "0": {
+                        "0": [
+                            4
+                        ]
+                    }
+                },
+                "5": {
+                    "0": {
+                        "0": [
+                            5
+                        ]
+                    }
+                },
+                "6": {
+                    "0": {
+                        "0": [
+                            6
+                        ]
+                    }
+                },
+                "7": {
+                    "0": {
+                        "0": [
+                            7
+                        ]
+                    }
+                },
+                "8": {
+                    "0": {
+                        "0": [
+                            8
+                        ]
+                    }
+                },
+                "9": {
+                    "0": {
+                        "0": [
+                            9
+                        ]
+                    }
+                },
+                "10": {
+                    "0": {
+                        "0": [
+                            10
+                        ]
+                    }
+                },
+                "11": {
+                    "0": {
+                        "0": [
+                            11
+                        ]
+                    }
+                },
+                "12": {
+                    "0": {
+                        "0": [
+                            12
+                        ]
+                    }
+                },
+                "13": {
+                    "0": {
+                        "0": [
+                            13
+                        ]
+                    }
+                },
+                "31": {
+                    "0": {
+                        "0": [
+                            31
+                        ]
+                    }
+                },
+                "32": {
+                    "0": {
+                        "0": [
+                            32
+                        ]
+                    }
+                }
+            },
+            "2": {
+                "1": {
+                    "0": {
+                        "0": [
+                            201000
+                        ]
+                    }
+                },
+                "5": {
+                    "0": {
+                        "0": [
+                            205000,
+                            205001,
+                            205002,
+                            205003
+                        ]
+                    }
+                },
+                "4": {
+                    "10": {
+                        "3150001": [
+                            31500010
+                        ],
+                        "3150002": [
+                            31500020
+                        ],
+                        "3150003": [
+                            31500030
+                        ],
+                        "3150004": [
+                            31500040
+                        ],
+                        "3150005": [
+                            31500050
+                        ],
+                        "3150006": [
+                            31500060
+                        ],
+                        "3150007": [
+                            31500070
+                        ],
+                        "3150008": [
+                            31500080
+                        ],
+                        "3150009": [
+                            31500090
+                        ],
+                        "3150010": [
+                            31500100
+                        ]
+                    }
+                }
+            },
+            "3": {
+                "1": {
+                    "0": {
+                        "0": [
+                            301000
+                        ]
+                    },
+                    "100": {
+                        "0": [
+                            3010001,
+                            3010003
+                        ]
+                    },
+                    "200": {
+                        "0": [
+                            3010002,
+                            3010004
+                        ]
+                    },
+                    "300": {
+                        "0": [
+                            3010005
+                        ]
+                    }
+                },
+                "2": {
+                    "100": {
+                        "0": [
+                            3020001
+                        ]
+                    },
+                    "200": {
+                        "0": [
+                            3020002
+                        ]
+                    }
+                },
+                "3": {
+                    "100": {
+                        "0": [
+                            3030001
+                        ]
+                    },
+                    "200": {
+                        "0": [
+                            3030002
+                        ]
+                    }
+                },
+                "4": {
+                    "100": {
+                        "0": [
+                            3040001
+                        ]
+                    },
+                    "200": {
+                        "0": [
+                            3040002
+                        ]
+                    }
+                },
+                "5": {
+                    "100": {
+                        "0": [
+                            3050001
+                        ]
+                    }
+                },
+                "6": {
+                    "200": {
+                        "0": [
+                            3060001
+                        ]
+                    }
+                },
+                "7": {
+                    "0": {
+                        "0": [
+                            3070001,
+                            3070002
+                        ]
+                    }
+                },
+                "11": {
+                    "100": {
+                        "0": [
+                            3110001
+                        ]
+                    },
+                    "200": {
+                        "0": [
+                            3110002
+                        ]
+                    }
+                },
+                "12": {
+                    "100": {
+                        "0": [
+                            3120001
+                        ]
+                    },
+                    "200": {
+                        "0": [
+                            3120002
+                        ]
+                    }
+                },
+                "13": {
+                    "100": {
+                        "0": [
+                            3130001
+                        ]
+                    },
+                    "200": {
+                        "0": [
+                            3130002
+                        ]
+                    }
+                },
+                "14": {
+                    "100": {
+                        "0": [
+                            3140001
+                        ]
+                    },
+                    "200": {
+                        "0": [
+                            3140002
+                        ]
+                    }
+                },
+                "15": {
+                    "0": {
+                        "0": [
+                            3150001,
+                            3150002,
+                            3150003,
+                            3150004,
+                            3150005,
+                            3150006,
+                            3150007,
+                            3150008,
+                            3150009,
+                            3150010
+                        ]
+                    }
+                }
+            },
+            "4": {
+                "1": {
+                    "100": {
+                        "0": [
+                            401000
+                        ]
+                    },
+                    "200": {
+                        "0": [
+                            401001
+                        ]
+                    },
+                    "300": {
+                        "0": [
+                            401002
+                        ]
+                    },
+                    "400": {
+                        "0": [
+                            401003
+                        ]
+                    }
+                },
+                "2": {
+                    "100": {
+                        "0": [
+                            402000
+                        ]
+                    },
+                    "200": {
+                        "0": [
+                            402001
+                        ]
+                    },
+                    "300": {
+                        "0": [
+                            402002
+                        ]
+                    },
+                    "400": {
+                        "0": [
+                            402003
+                        ]
+                    }
+                },
+                "3": {
+                    "0": {
+                        "0": [
+                            403000,
+                            403001,
+                            403002,
+                            403003,
+                            403004,
+                            403005
+                        ]
+                    }
+                },
+                "4": {
+                    "0": {
+                        "0": [
+                            404000
+                        ]
+                    }
+                },
+                "5": {
+                    "0": {
+                        "0": [
+                            405000
+                        ]
+                    }
+                },
+                "6": {
+                    "0": {
+                        "0": [
+                            406000
+                        ]
+                    }
+                },
+                "7": {
+                    "0": {
+                        "0": [
+                            407000
+                        ]
+                    }
+                },
+                "8": {
+                    "1": {
+                        "2": [
+                            408000
+                        ]
+                    },
+                    "2": {
+                        "3": [
+                            408001
+                        ]
+                    },
+                    "3": {
+                        "4": [
+                            408002
+                        ]
+                    }
+                },
+                "9": {
+                    "0": {
+                        "0": [
+                            409000,
+                            409001,
+                            409002,
+                            409003,
+                            409004,
+                            409005,
+                            409006,
+                            409007
+                        ]
+                    }
+                },
+                "10": {
+                    "0": {
+                        "0": [
+                            410000,
+                            410001,
+                            410002
+                        ]
+                    }
+                },
+                "11": {
+                    "0": {
+                        "0": [
+                            411000,
+                            411001,
+                            411002,
+                            411003,
+                            411004
+                        ]
+                    }
+                },
+                "12": {
+                    "10": {
+                        "0": [
+                            412001
+                        ]
+                    },
+                    "100": {
+                        "0": [
+                            412002
+                        ]
+                    }
+                }
+            },
+            "5": {
+                "1": {
+                    "0": {
+                        "0": [
+                            501000,
+                            902000,
+                            902001,
+                            902002,
+                            902003
+                        ]
+                    }
+                },
+                "3": {
+                    "0": {
+                        "0": [
+                            503000,
+                            503001,
+                            503002,
+                            503003
+                        ]
+                    }
+                },
+                "4": {
+                    "0": {
+                        "0": [
+                            504000,
+                            504001,
+                            504002
+                        ]
+                    }
+                }
+            },
+            "6": {
+                "0": {
+                    "200": {
+                        "10": [
+                            600101,
+                            600201
+                        ]
+                    },
+                    "300": {
+                        "20": [
+                            600102,
+                            600202
+                        ],
+                        "10": [
+                            600301,
+                            600401
+                        ],
+                        "30": [
+                            600403,
+                            600502,
+                            600601,
+                            600701,
+                            600801,
+                            600901,
+                            601002,
+                            601102,
+                            601201,
+                            601301,
+                            601402,
+                            601502,
+                            601701,
+                            601901,
+                            602002,
+                            602201,
+                            602401,
+                            602502,
+                            602701,
+                            602901,
+                            602903,
+                            603101,
+                            603201,
+                            603401,
+                            603601,
+                            603801,
+                            604001,
+                            604201,
+                            604301,
+                            604402,
+                            604601,
+                            604702,
+                            604901
+                        ]
+                    },
+                    "400": {
+                        "30": [
+                            600103,
+                            600203
+                        ],
+                        "20": [
+                            600302,
+                            600402,
+                            600501,
+                            600503,
+                            600602,
+                            600702,
+                            600802,
+                            601001,
+                            601101,
+                            601103,
+                            601202,
+                            601401,
+                            601501,
+                            601601,
+                            601801,
+                            602001,
+                            602101,
+                            602301,
+                            602501,
+                            602601,
+                            602801,
+                            602902,
+                            603001,
+                            603102,
+                            603301,
+                            603501,
+                            603701,
+                            603901,
+                            604101,
+                            604202,
+                            604401,
+                            604501,
+                            604701,
+                            604801
+                        ]
+                    }
+                },
+                "1": {
+                    "0": {
+                        "0": [
+                            601000
+                        ]
+                    }
+                }
+            },
+            "7": {
+                "1": {
+                    "1": {
+                        "0": [
+                            701000
+                        ],
+                        "1": [
+                            701001
+                        ]
+                    },
+                    "2": {
+                        "1": [
+                            701002
+                        ]
+                    },
+                    "3": {
+                        "1": [
+                            701003
+                        ]
+                    },
+                    "4": {
+                        "1": [
+                            701004
+                        ]
+                    }
+                },
+                "2": {
+                    "1": {
+                        "0": [
+                            702000
+                        ],
+                        "1": [
+                            702001
+                        ]
+                    },
+                    "2": {
+                        "1": [
+                            702002
+                        ]
+                    },
+                    "3": {
+                        "1": [
+                            702003
+                        ]
+                    },
+                    "4": {
+                        "1": [
+                            702004
+                        ]
+                    },
+                    "5": {
+                        "0": [
+                            702005
+                        ]
+                    }
+                },
+                "3": {
+                    "1": {
+                        "0": [
+                            703000
+                        ],
+                        "1": [
+                            703001
+                        ]
+                    },
+                    "2": {
+                        "1": [
+                            703002
+                        ]
+                    },
+                    "3": {
+                        "1": [
+                            703003
+                        ]
+                    },
+                    "4": {
+                        "1": [
+                            703004
+                        ]
+                    },
+                    "5": {
+                        "0": [
+                            703005
+                        ]
+                    }
+                },
+                "4": {
+                    "1": {
+                        "0": [
+                            704000
+                        ],
+                        "1": [
+                            704001
+                        ]
+                    },
+                    "2": {
+                        "1": [
+                            704002
+                        ]
+                    },
+                    "3": {
+                        "1": [
+                            704003
+                        ]
+                    },
+                    "4": {
+                        "1": [
+                            704004
+                        ]
+                    },
+                    "5": {
+                        "0": [
+                            704005
+                        ]
+                    }
+                },
+                "5": {
+                    "1": {
+                        "0": [
+                            705000
+                        ],
+                        "1": [
+                            705001
+                        ]
+                    },
+                    "2": {
+                        "1": [
+                            705002
+                        ]
+                    },
+                    "3": {
+                        "1": [
+                            705003
+                        ]
+                    },
+                    "4": {
+                        "1": [
+                            705004
+                        ]
+                    },
+                    "5": {
+                        "0": [
+                            705005
+                        ]
+                    }
+                },
+                "6": {
+                    "1": {
+                        "0": [
+                            706000
+                        ],
+                        "1": [
+                            706001
+                        ]
+                    },
+                    "2": {
+                        "1": [
+                            706002
+                        ]
+                    },
+                    "3": {
+                        "1": [
+                            706003
+                        ]
+                    },
+                    "4": {
+                        "1": [
+                            706004
+                        ]
+                    },
+                    "5": {
+                        "0": [
+                            706005
+                        ]
+                    }
+                }
+            },
+            "8": {
+                "2": {
+                    "0": {
+                        "0": [
+                            800000,
+                            800001
+                        ]
+                    }
+                }
+            },
+            "9": {
+                "1": {
+                    "0": {
+                        "0": [
+                            901000,
+                            901001,
+                            901002,
+                            901003
+                        ]
+                    }
+                },
+                "3": {
+                    "0": {
+                        "0": [
+                            903000,
+                            903001,
+                            903002,
+                            903003
+                        ]
+                    }
+                },
+                "4": {
+                    "0": {
+                        "0": [
+                            904000
+                        ]
+                    }
+                }
+            },
+            "10": {
+                "0": {
+                    "311": {
+                        "0": [
+                            1000001
+                        ]
+                    },
+                    "312": {
+                        "0": [
+                            1000002
+                        ]
+                    },
+                    "313": {
+                        "0": [
+                            1000003
+                        ]
+                    },
+                    "314": {
+                        "0": [
+                            1000004
+                        ]
+                    }
+                }
+            },
+            "11": {
+                "0": {
+                    "0": {
+                        "0": [
+                            1100001,
+                            1100002,
+                            1100003,
+                            1100004,
+                            1100005,
+                            1100006,
+                            1100007,
+                            1100008,
+                            1100009,
+                            1100010,
+                            1101001,
+                            1101002,
+                            1101003,
+                            1101004,
+                            1101005,
+                            1101006,
+                            1101007,
+                            1101008,
+                            1101009,
+                            1101010
+                        ]
+                    }
+                }
+            },
+            "12": {
+                "0": {
+                    "0": {
+                        "0": [
+                            1200001,
+                            1200002,
+                            1200003,
+                            1200004,
+                            1200005,
+                            1200006,
+                            1200007,
+                            1200008,
+                            1200009,
+                            1200010,
+                            1200011,
+                            1200012
+                        ]
+                    }
+                }
+            },
+            "13": {
+                "0": {
+                    "0": {
+                        "0": [
+                            1300000,
+                            1300001,
+                            1300002
+                        ]
+                    }
+                }
+            }
+        }
+    }
+}
